@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://support.claude.com",
+    "name": "Use connectors to extend Claude's capabilities",
+    "snippet": "Aug 20, 2026 — Custom connectors using remote MCP are available on Claude , Cowork, and Claude Desktop for users on free, Pro, Max, Team, and Enterprise plans. Read more",
+    "host_name": "support.claude.com",
+    "rank": 0,
+    "date": "Aug 20, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.usecarly.com",
+    "name": "Claude Cowork Connectors: What Actually Connects in 2026",
+    "snippet": "Aug 18, 2026 — No. Custom remote MCP connectors work on Free as well as the paid tiers, with free accounts limited to one. The paid plan is what unlocks Cowork ... Read more",
+    "host_name": "www.usecarly.com",
+    "rank": 1,
+    "date": "Aug 18, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://explainx.ai",
+    "name": "How to Use Claude Connectors & MCP Servers",
+    "snippet": "Jun 9, 2026 — Learn how to set up custom connectors , integrate external tools, build your own MCP servers, and automate workflows with Claude AI in 2026.",
+    "host_name": "explainx.ai",
+    "rank": 2,
+    "date": "Jun 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://aitoolsrecap.com",
+    "name": "Claude Free Plan (2026): Limits, API Credits & What You",
+    "snippet": "Apr 16, 2026 — MCP connectors (remote) Basic app connectors are available on the free tier. MCP has crossed 97 million installs and is the standard connector ...",
+    "host_name": "aitoolsrecap.com",
+    "rank": 3,
+    "date": "Apr 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://fireflies.ai",
+    "name": "Fireflies + Claude: Connect Your Meetings to Claude (2026)",
+    "snippet": "Aug 31, 2026 — On Claude Web you can add Fireflies as a custom connector, pasting the Fireflies MCP server URL and authorizing through Google or Microsoft ... Read more",
+    "host_name": "fireflies.ai",
+    "rank": 4,
+    "date": "Aug 31, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://suprmind.ai",
+    "name": "Claude AI Features in 2026: What Each One Does",
+    "snippet": "MCP (Model Context Protocol). Available on: Remote connectors – Pro , Max, Team, Enterprise. Local MCP on Claude Desktop – any plan with the Desktop app. Read more",
+    "host_name": "suprmind.ai",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.totalum.app",
+    "name": "Best MCP Servers in 2026: 12 Ranked Picks for Claude",
+    "snippet": "Aug 2, 2026 — Code download and custom domains are included from the Starter plan at $29 a month; the free tier is for building and evaluating. ... GitHub MCP ... Read more",
+    "host_name": "www.totalum.app",
+    "rank": 6,
+    "date": "Aug 2, 2026",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://help.openai.com",
+    "name": "Model Release Notes",
+    "snippet": "Jul 9, 2026 — As of March 11, 2026 , GPT-5.1 models are no longer available in ChatGPT . ... ChatGPT Team, Pro, Plus, and Free plan users can access o3-mini ...",
+    "host_name": "help.openai.com",
+    "rank": 0,
+    "date": "Jul 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sokosumi.com",
+    "name": "OpenAI Codex vs Claude Code (2026): prices, usage limits",
+    "snippet": "Aug 26, 2026 — If your company already licenses ChatGPT, Codex is free to try and cheaper to run at volume, with EU residency on Enterprise. If code quality on ...",
+    "host_name": "www.sokosumi.com",
+    "rank": 1,
+    "date": "Aug 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://omidsaffari.com",
+    "name": "8 Open Source Coding Agents for Existing Plans (2026)",
+    "snippet": "Aug 25, 2026 — ... plan is the price wall. For ChatGPT and Codex, OpenAI's current pricing is Free at $0 per month , Go at $8, Plus at $20, Pro 5x at $100, and ...",
+    "host_name": "omidsaffari.com",
+    "rank": 2,
+    "date": "Aug 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://101aitools.com",
+    "name": "OpenAI Codex Review (2026): Pricing, Features, and How",
+    "snippet": "Aug 1, 2026 — It's included with ChatGPT Free (limited), Go ($8/month), Plus ($20/month), Pro ($100/month for 5x usage or $200/month for 20x), Business ($25/ ...",
+    "host_name": "101aitools.com",
+    "rank": 3,
+    "date": "Aug 1, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://codemyspec.com",
+    "name": "Codex CLI Review 2026: Pricing, Benchmarks, Community",
+    "snippet": "Mar 27, 2026 — $20/mo via ChatGPT Plus with generous limits. Users consistently report 2-3x token efficiency over Claude Code. Community consensus: go-to for ...",
+    "host_name": "codemyspec.com",
+    "rank": 4,
+    "date": "Mar 27, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://community.openai.com",
+    "name": "Codex Rate Limits Discussion Thread - Page 9",
+    "snippet": "Apr 4, 2026 — Hi everyone, This topic is for discussing Codex limits after the move from message-based usage to token-based usage.",
+    "host_name": "community.openai.com",
+    "rank": 5,
+    "date": "Apr 4, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://nahornyi.ai",
+    "name": "Codex Free in ChatGPT: Maximizing ROI - Nahornyi AI Lab",
+    "snippet": "Feb 18, 2026 — In February 2026, OpenAI temporarily unlocked Codex for ChatGPT Free and Go users. ... Codex is indeed temporarily available within ChatGPT Free ...",
+    "host_name": "nahornyi.ai",
+    "rank": 6,
+    "date": "Feb 18, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.toolcolumn.com",
+    "name": "ChatGPT Free vs Go vs Plus vs Pro: Limits & Best Plan",
+    "snippet": "Sep 15, 2026 — Free ($0 ) is suitable for everyday general knowledge, casual writing, search synthesis, and lightweight coding assistance. Free users receive ...",
+    "host_name": "www.toolcolumn.com",
+    "rank": 7,
+    "date": "Sep 15, 2026",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,176 @@
+# -*- coding: utf-8 -*-
+"""Content data for the Higgsfield x Frontier LLM Integration Playbook.
+
+Block types consumed by generate_body.py:
+  ('h1', text)                      - chapter heading (auto TOC entry, level 0)
+  ('h2', text)                      - section heading (TOC level 1)
+  ('h3', text)                      - sub-heading (no TOC)
+  ('body', text)                    - body paragraph (justified, FreeSerif)
+  ('lead', text)                    - intro paragraph under H1 (slightly larger)
+  ('bullet', [items])               - bulleted list
+  ('numbered', [items])             - numbered list
+  ('table', (headers, rows, ratios)) - table with Paragraph-wrapped cells
+  ('code', text)                    - mono code/prompt block
+  ('callout', (title, text))        - accent callout box
+  ('caption', text)                 - small muted centered caption
+"""
+
+TITLE = "Higgsfield x Frontier LLM Integration Playbook"
+SUBJECT = "Free integration of Higgsfield with frontier language models for one-shot website development"
+
+CHAPTERS = [
+# ---------------------------------------------------------------- CH 1
+[('h1', 'The Verdict: What Works, What Costs, What Is Free'),
+('lead', 'The integration you asked about is real, it is official, and it is exactly the thing you described: Higgsfield connected to a frontier model that builds next-level websites from one prompt. The only complication is money, and this playbook solves for that.'),
+('body', 'Claude really does have the connector you heard about. Custom connectors using remote MCP are available on Claude for users on the free, Pro, Max, Team, and Enterprise plans, and free accounts are limited to one custom connector, which is exactly enough for Higgsfield. The server URL is <font name="DejaVuSans">https://mcp.higgsfield.ai/mcp</font>, it connects through OAuth with no API key, and Higgsfield documents the full setup. In ChatGPT, Higgsfield ships as an official plugin in the Plugins Directory, added with two clicks and the same sign-in. In Cursor, it is in the marketplace. In Claude Code, OpenClaw, Hermes, and ChatGPT Codex, the agent installs the Higgsfield CLI and a skills pack itself.'),
+('body', 'Higgsfield\u2019s own skill catalog is where your \u201cnext-level website\u201d instinct pays off. The official <font name="DejaVuSans">higgsfield-websites</font> skill builds, edits, and deploys full-stack sites: React 19 plus TanStack Start, server-rendered as one Cloudflare Worker, with three product types (standalone website, Higgsfield-integrated app, and realtime multiplayer game). Its recommended \u201cAnimated\u201d mode is a scroll-driven journey through a single generated ~15-second film, scrubbed end to end with no seams, which is precisely the cinematic one-shot website style you are after. The skill even chains with the generation skill to embed bespoke hero images, video loops, and OG assets in the site.'),
+('body', 'The one hard constraint: the Higgsfield side of the connection is not free. Officially, connecting Claude, ChatGPT, or an agent to Higgsfield requires an active paid Higgsfield plan, and every generation through MCP, the ChatGPT plugin, the CLI, Canvas, or Supercomputer deducts credits at standard rates. Unlimited access and free generations apply only on the higgsfield.ai website. The 24-hour Unlimited MCP trial that let unlimited generation run directly inside Claude and ChatGPT closed on July 31, 2026, and as of late September 2026 there is no active free trial.'),
+('callout', ('THE STRATEGY IN ONE LINE',
+ 'Track 1 (today, $0): replicate the exact same architecture with free frontier models, free cinematic video generation from the same model families Higgsfield sells, and free hosting. Track 2 (stay ready): claim every free Higgsfield credit route below, keep the connector one click away, and activate the official integration the moment a trial or free credits land. Both tracks output the same product: cinematic, one-shot, next-generation websites.')),
+],
+# ---------------------------------------------------------------- CH 2
+[('h1', 'The Official Integration: Four Surfaces'),
+('lead', 'Everything in this chapter is verified from Higgsfield\u2019s official help center, the OpenAI plugin directory, the npm registry, and the public GitHub repositories. These are the exact procedures; nothing here is guesswork.'),
+('table', (['Surface', 'How it connects', 'Free side', 'Key limits'],
+ [['Claude (web + Desktop)', 'Custom connector: Settings, Connectors, Add custom connector, paste the MCP URL', 'Claude free plan supports 1 custom connector', 'Audio and the Website Building skill work here; Higgsfield account must be paid'],
+  ['ChatGPT', 'Official Higgsfield Plugin from the Plugins Directory (or higgsfield.ai/mcp, Add plugin)', 'Plugin addable; Codex included with ChatGPT Free (limited)', 'No audio through ChatGPT; Website Building skill not offered in ChatGPT'],
+  ['Cursor', 'Customize, Marketplace, find Higgsfield, Add, sign in', 'Cursor free tier available', 'Image and video generation via the agent; same Higgsfield credits'],
+  ['Claude Code / OpenClaw / Hermes / Codex', 'Higgsfield CLI installed by the agent itself, plus skills pack', 'CLI is free software; generations deduct credits', 'Full skill set: generate, websites, brandkit, product photoshoot, games']],
+ [0.20, 0.34, 0.22, 0.24])),
+('h2', '2.1  Claude Connector, Step by Step'),
+('numbered', [
+ 'Open claude.ai (or Claude Desktop) signed in on the free plan.',
+ 'Go to Settings, then Connectors, then Add custom connector.',
+ 'Name it Higgsfield and paste the URL: https://mcp.higgsfield.ai/mcp',
+ 'Click Connect. A Higgsfield authorization window opens; sign in with your Higgsfield account (automatic if already logged in at higgsfield.ai).',
+ 'Return to Claude. The connector now appears in your active connectors list.',
+ 'Verify: start a new chat and ask \u201cWhat is my Higgsfield credit balance?\u201d. If Claude answers with account data, the pipe is live.']),
+('h2', '2.2  ChatGPT Plugin, Step by Step'),
+('numbered', [
+ 'Open the Plugins Directory inside ChatGPT, or go to higgsfield.ai/mcp and click Add Higgsfield plugin.',
+ 'Find Higgsfield and select Add.',
+ 'Sign in to your Higgsfield account and authorize access.',
+ 'Start a new chat and ask ChatGPT to generate an image or video with Higgsfield.',
+ 'Remember: audio and the Website Building skill are Claude/CLI only; use higgsfield.ai or Claude for those.']),
+('h2', '2.3  The CLI Route (Claude Code, Codex, Cursor Terminals)'),
+('body', 'Higgsfield publishes an official install script and npm package. The CLI is real, actively maintained (v1.1.26 at the time of writing, roughly 22,000 weekly npm downloads), and the companion skills repository is public with 1,100+ stars. Paste the official setup prompt into your coding agent and let the agent do the installation:'),
+('code', 'Set up Higgsfield for me so I can generate images and videos from here.\n1. Install the CLI: run  npm i -g @higgsfield/cli\n2. Authenticate: run  higgsfield auth login\n   and complete the sign-in in the browser it opens.\n3. Install the companion skills: run  npx skills add higgsfield-ai/skills\nOnce that\'s done, let me know when it\'s ready.'),
+('body', 'Alternative installs, from the official repository: <font name="DejaVuSans">curl -fsSL https://raw.githubusercontent.com/higgsfield-ai/cli/main/install.sh | sh</font>, or <font name="DejaVuSans">gh skill install higgsfield-ai/skills</font>, or inside Claude Code: <font name="DejaVuSans">/plugin marketplace add higgsfield-ai/skills</font> then <font name="DejaVuSans">/plugin install higgsfield@higgsfield</font>. The skills pack includes higgsfield-generate (30+ models), higgsfield-soul-id, higgsfield-product-photoshoot, higgsfield-brandkit, higgsfield-marketplace-cards, higgsfield-websites, higgsfield-video-explainer, and higgsfield-youtube-thumbnail.'),
+('h2', '2.4  What the Websites Skill Actually Builds'),
+('body', 'The higgsfield-websites skill drives the whole lifecycle through the Higgsfield CLI: <font name="DejaVuSans">higgsfield website create --type website|app|game</font>, then local editing with git and bun, then <font name="DejaVuSans">higgsfield website deploy</font>. Every build ships with a generated launch cover and feed-card metadata. The animated path defaults to a single-shot film: one continuous roughly 15-second generated take, scrubbed end to end as the user scrolls. The reference example on Higgsfield\u2019s own skills page is exactly the bar to aim for: \u201cBuild the LOOMERE website from the attached coral polo shirt. Use celadon sage, warm ivory, pine ink, Cabinet Grotesk, and Inter Tight with one red accent. Show a coral thread becoming the polo and four pastel variants, with six chapters, a preorder modal, a knot logo, and a fabric-facts marquee.\u201d'),
+('h2', '2.5  The API Path (No Subscription, but Not Free)'),
+('body', 'Higgsfield also runs a developer API that is deliberately separate from the subscription: one key at console (open.higgsfield.ai), a prepaid US dollar balance, and pay-per-request pricing across a 50+ model catalog with no plan involved. Requests simply wait once the balance hits zero, and each model page carries ready setup prompts for Claude Code, Cursor, and ChatGPT (Codex). This is the \u201cno subscription\u201d route you may have seen in tutorials, but it still needs a funded balance, so for a zero budget it is a documented option rather than a recommendation.'),
+],
+# ---------------------------------------------------------------- CH 3
+[('h1', 'Free Routes to Higgsfield Credits'),
+('lead', 'The official surfaces cost money only on the Higgsfield side. This chapter is the complete map of every legitimate free route, current as of September 29, 2026, plus the honest catches.'),
+('table', (['Route', 'What you get', 'Status', 'The catch'],
+ [['Free plan', 'About 10 credits per day, web only', 'Live', 'One cinematic generation can eat 8-15 credits; not usable through MCP'],
+  ['Business-email signup', '50 free credits for new accounts', 'Live as rotating promo', 'Sign up with a business or custom-domain email address'],
+  ['1-day unlimited (new users)', '24 hours of unlimited generation on all top models', 'Rotating; last ran July 2026', 'New users only; watch the Pricing page and blog'],
+  ['Unlimited MCP trial', 'Unlimited generation inside Claude and ChatGPT', 'Ended July 31, 2026', 'Required a card on file; auto-converted to Plus unless cancelled'],
+  ['Higgsfield for Good', 'Free access to the platform', 'Non-profit: open. Professors: open. Students: closed (first cohort full)', 'Application review takes up to two weeks'],
+  ['7-day refund', 'Full refund of first purchase', 'Live', 'Only if zero credits were used; one generation voids it']],
+ [0.18, 0.30, 0.26, 0.26])),
+('body', 'Two practical notes on using these routes well. First, the 50 business-email credits and the daily free-plan credits are designed for the web interface, and official documentation states that unlimited access and free generations do not apply to MCP, CLI, Canvas, or Supercomputer; the help center further states that connecting an agent requires an active paid subscription. Treat the paid-plan gate as the default assumption, and verify your own account empirically the moment you have credits: connect the Claude connector, then ask \u201cWhat is my Higgsfield credit balance?\u201d before generating anything. If the connector authorizes and reports a balance, try the cheapest possible test job (a Soul 2.0 image at 0.12 credits, or Seedance 1.5 at 480p for about 1 credit per 5 seconds) and watch the balance. That one-minute experiment settles the question for your account for good.'),
+('body', 'Second, the 7-day refund policy is a legitimate safety net for testing the paid integration: subscribe, connect the connector in Claude, confirm everything works end to end, and if you decide the workflow is not ready, cancel and request the refund while the credit balance is still untouched. The moment you generate anything, the refund is void, so sequence any test generations after the go/no-go decision.'),
+('callout', ('FREE CREDITS MOVE FAST',
+ 'Trial offers rotate as limited-time promotions, and they are consistently for new users. Create the Higgsfield account now with a business email to lock the 50 credits, bookmark the Pricing page and the blog, and check both weekly. When a 1-day unlimited or a new Unlimited MCP window opens, that is the day you run the full higgsfield-websites pipeline: the entire LOOMERE-style site fits comfortably inside 24 hours of unlimited generation.')),
+],
+# ---------------------------------------------------------------- CH 4
+[('h1', 'Path A: The Zero-Dollar Stack'),
+('lead', 'This is the stack you can start building on your MacBook Pro today, with no card on file anywhere. It deliberately mirrors the Higgsfield architecture: a frontier model for the build, a cinematic generation layer for the film assets, a design-taste layer, and free hosting.'),
+('h2', '4.1  Layer 1: Free Frontier Models'),
+('table', (['Model surface', 'What you get free', 'Why it matters here'],
+ [['Claude (claude.ai)', 'Claude Sonnet 5 on the free tier, Artifacts, Projects, and one custom MCP connector', 'The same connector slot and Website Building skill path as the official integration; strongest one-shot code quality'],
+  ['Google AI Studio (aistudio.google.com)', 'Gemini 3.1 Pro Preview and 3.8 Flash with near-unlimited free prompts, huge context', 'Writes complete single-file websites and generates images (Nano Banana 2) in the same chat; free image gen built in'],
+  ['ChatGPT (chatgpt.com)', 'GPT-5.6 Luna unlimited on the free tier, included image generation, limited Codex', 'Codex is the same agent surface the Higgsfield API targets; Canvas for iterating on the site'],
+  ['chat.z.ai', 'GLM 5.3 and GLM 5.3 Flash, agent mode, slides', 'Strong free frontier alternative for long code outputs'],
+  ['chat.deepseek.com', 'DeepSeek V4.1-Flash, unlimited with sign-up', 'Very long one-shot code generation, no cost'],
+  ['Together.ai / NVIDIA NIM / ISH', 'Up to 110 daily frontier generations / unlimited no-signup / 50K tokens daily', 'Multi-model free access to GLM-5.3, Kimi K3, DeepSeek V4 Pro from FMHY']],
+ [0.22, 0.40, 0.38])),
+('h2', '4.2  Layer 2: Free Cinematic Generation (Same Model Families)'),
+('body', 'This is the part that surprises most people: the exact model families Higgsfield sells access to are available elsewhere with free daily allotments. Dreamina gives you Seedance 2.0 Mini and Fast video plus GPT Image 2 and Seedream 5.0 Pro images with 120 credits daily. Google Flow gives you Veo 3.1 with 50 credits daily. Generate the hero film and the poster stills on these surfaces, download the MP4 and PNG files, and embed them in your one-shot build.'),
+('table', (['Surface', 'Free allotment', 'Models'],
+ [['Dreamina (dreamina.capcut.com)', '120 credits daily', 'Seedance 2.0 Mini/Fast video; GPT Image 2, Seedream 5.0 Pro, Nano Banana images'],
+  ['Google Flow (flow.google.com)', '50 credits daily', 'Veo 3.1, Veo 3.1 Lite, Omni Flash video'],
+  ['Gemini (gemini.google.com)', '20 images daily', 'Nano Banana 2 image generation and editing'],
+  ['Wan AI (create.wan.video)', '10 credits daily, slow queue unlimited', 'Wan 2.7 video, image to video'],
+  ['Qwen chat (chat.qwen.ai)', '5-12 videos per hour', 'Qwen video generation'],
+  ['Meta AI (meta.ai)', 'Unlimited', 'Image generation and editing'],
+  ['Arena (arena.ai)', '2 videos daily', 'Random top video models, blind test format']],
+ [0.28, 0.26, 0.46])),
+('h2', '4.3  Layer 3: Open-Source Force Multipliers from Your Own Catalog'),
+('body', 'Your curated catalog contained several genuine gems behind the OCR noise, and I verified each of these on GitHub directly. They slot straight into this stack and cost nothing.'),
+('bullet', [
+ '<b>nexu-io/html-video</b> (4,600 stars, Apache-2.0): your coding agent turns HTML, CSS, and data into fully animated videos rendered to real MP4 files locally on the MacBook, with 21 templates including liquid-gradient heroes, cinematic light-leak frames, glitch titles, and NYT-style animated data charts, plus optional AI soundtrack. No per-render fees, no vendor lock-in, works with Claude Code, Codex, Cursor, Trae, Gemini CLI, and a dozen more agents. This is your free, unlimited stand-in for Higgsfield motion assets.',
+ '<b>nexu-io/open-design</b> (98,000 stars, Apache-2.0): the open-source Claude Design alternative, a local-first desktop app for macOS that composes design systems, prototypes, decks, and HyperFrames motion graphics, and exports to HTML, PDF, PPTX, and MP4. It runs on your local coding agents or any OpenAI-compatible endpoint. Its Cloud service currently offers DeepSeek V4 Flash and Pro without limits for two weeks for new members.',
+ '<b>CoreBunch/Instatic</b> (8,800 stars): a self-hosted, agentic visual CMS positioned as the open-source alternative to Webflow, Framer, and WordPress, outputting clean static pages from a single Bun server. When you outgrow single-file sites, this is your free CMS layer.',
+ '<b>JCodesMore/ai-website-cloner-template</b> (35,400 stars): the \u201c6,000-dollar site rebuild\u201d from your catalog, real and verified. Point it at any homepage and your AI coding agent rebuilds the whole thing as a working template with one command. Excellent for client-acquisition pitches: walk in with their new site already built.',
+ '<b>21st.dev</b> and <b>shadcn/ui</b>: the component libraries behind the \u201cvibe-coded apps\u201d post in your catalog. Premium, accessible, copy-paste components that drop straight into agent-built sites.',
+ '<b>penpot/penpot-mcp</b> (520 stars): Penpot\u2019s official MCP server, letting design and code agents drive the open-source design tool directly.']),
+('h2', '4.4  Layer 4: Free Hosting'),
+('body', 'Ship on GitHub Pages for zero-config static hosting tied to a git push, or Cloudflare Pages for the fastest global CDN with unlimited bandwidth on the free tier. Netlify and Vercel remain solid alternatives with generous free tiers. All four take a pushed folder or repo and return a live HTTPS URL in under a minute, and all four support custom domains later. Note that the official higgsfield-websites skill deploys to Higgsfield\u2019s own hosting under its subdomain scheme instead, which is another reason the two tracks stay complementary rather than redundant.'),
+('h2', '4.5  The Assembled Workflow'),
+('numbered', [
+ 'Write the one-page brief: brand, palette, typography, chapters, and the film concept for the hero.',
+ 'Generate the hero film free: Dreamina (Seedance 2.0) or Flow (Veo 3.1), 5-8 seconds, 1080p, loopable. Download the MP4.',
+ 'Generate stills free: poster frame, OG image, chapter cards, product shots (Gemini Nano Banana 2, Meta AI, or Dreamina images).',
+ 'One-shot the site: paste Prompt 1 from Chapter 5 into Claude or Google AI Studio with the assets attached or referenced. Get a complete single-file site or a small repo.',
+ 'Deploy: push to GitHub, enable Pages or Cloudflare Pages, get the live URL.',
+ 'Iterate from anywhere: the Claude and ChatGPT iOS apps on the iPhone handle refinement prompts; when Higgsfield credits land, the plugin inside the ChatGPT app generates new assets in the same conversation.']),
+],
+# ---------------------------------------------------------------- CH 5
+[('h1', 'One-Shot Prompt Library'),
+('lead', 'Five prompts, ready to paste. Prompts 1 and 5 run on the free stack today. Prompts 2, 3, and 4 are the official integration prompts, held ready for the day your Higgsfield credits or trial activate.'),
+('h2', '5.1  Prompt 1: The Free-Stack One-Shot Website Builder'),
+('body', 'Paste into Claude (free), Google AI Studio, or ChatGPT, replacing the bracketed slots. Attach or reference your generated MP4 and images. This prompt encodes the LOOMERE reference structure from Higgsfield\u2019s own skills page: locked palette and typography, chapter narrative, motion rules, and social metadata.'),
+('code', 'Build a complete, production-ready, single-file website for [BRAND].\n\nIDENTITY\n- Palette: [3-4 named colors with hex], one accent only\n- Type: [display font] for headings, [body font] for text\n- Voice: [three adjectives]\n\nSTRUCTURE (six chapters, scroll-driven)\n1. Hero: full-viewport muted looping video (hero.mp4 attached) with poster\n   fallback, one-line promise, single CTA\n2. Origin: the [material/idea] becoming the product, scroll-reveal sequence\n3. Variants: four [product/color] cards, hover tilt and cursor parallax\n4. Details: fabric-facts marquee (infinite, pause on hover)\n5. Social proof: three quote cards, staggered fade-in\n6. Close: preorder modal (backdrop blur, no page reload), knot-style SVG logo\n\nMOTION RULES\n- IntersectionObserver reveals, 240ms ease-out, stagger 80ms\n- Scroll progress drives a chapter counter and a thin progress bar\n- Respect prefers-reduced-motion; 60fps transform/opacity only\n\nTECH\n- One self-contained HTML file, all CSS/JS inline, no build step\n- Fluid type via clamp(), 320px to 1920px, dark-mode aware\n- Full OG/Twitter meta, favicon as inline SVG, Lighthouse-friendly\n\nOutput the entire file in one code block. No placeholders, no TODOs.'),
+('h2', '5.2  Prompt 2: Official Claude Code + Higgsfield CLI Setup'),
+('code', 'Set up Higgsfield for me so I can generate images and videos from here.\n1. Install the CLI: run  npm i -g @higgsfield/cli\n2. Authenticate: run  higgsfield auth login\n   and complete the sign-in in the browser it opens.\n3. Install the companion skills: run  npx skills add higgsfield-ai/skills\nOnce that\'s done, let me know when it\'s ready.'),
+('h2', '5.3  Prompt 3: The higgsfield-websites Build Pattern'),
+('body', 'Use once the CLI is installed, authenticated, and carrying credits. This is the structure of the reference build from the official skills page; swap in your own product and palette. Answer \u201cAnimated\u201d when the skill asks, and accept the single-shot default film.'),
+('code', 'Build the [BRAND] website from the attached [product photo]. Use\n[palette: e.g. celadon sage, warm ivory, pine ink], [display font] and\n[body font] with one [accent color] accent. Show [a thread becoming the\nproduct] and four pastel variants, with six chapters, a preorder modal,\na [motif] logo, and a [topic]-facts marquee. Create it with\nhiggsfield website create --type website --subdomain [slug], follow the\nanimated single-shot film path for the scroll experience, and deploy.'),
+('h2', '5.4  Prompt 4: The Connection Verifier'),
+('code', 'What is my current Higgsfield credit balance? Also list my five most\nrecent Higgsfield generations with their model and source (web, MCP,\nplugin, or CLI).'),
+('body', 'Run this immediately after connecting the Claude connector or adding the ChatGPT plugin. If the agent answers with live account data, the integration is authorized; if it answers without calling any tools, reconnect the connector and start a fresh conversation. Before any paid generation, also say: \u201cBefore generating anything, tell me the credit cost and wait for my confirmation.\u201d'),
+('h2', '5.5  Prompt 5: Free Local Motion Assets (html-video)'),
+('code', 'Using the html-video skill, render a 6-second 1920x1080 cinematic hero\nloop for [BRAND]: liquid gradient background in [palette], slow drift,\nfilm grain, light leak from the right third, centered headline\n"[TAGLINE]" with a 300ms letter-fade-in. Render to MP4 locally and give\nme the file path. No cloud services, no API keys.'),
+],
+# ---------------------------------------------------------------- CH 6
+[('h1', 'Your Action Checklist'),
+('lead', 'I executed everything that can be executed from here: the full research pass over both resources you provided, verification of every load-bearing claim against official documentation, dead-link correction of the OCR-damaged catalog entries, and the drafting of this playbook and the prompt library. What remains requires your hands, your accounts, and your devices.'),
+('callout', ('WHAT ONLY YOU CAN DO',
+ 'Account creation and OAuth authorization cannot be delegated: they need your email, your sign-ins, and your trust. The terminal commands need your MacBook Pro. Everything else in this playbook is already done and verified.')),
+('numbered', [
+ 'Create the free accounts (15 minutes, no card): Claude at claude.ai, Google account for AI Studio and Flow, Dreamina, ChatGPT, and Higgsfield at higgsfield.ai. For Higgsfield, use a business or custom-domain email to claim the 50 free credits during signup.',
+ 'Optional but decisive: in Claude, go to Settings, Connectors, Add custom connector, name it Higgsfield, paste https://mcp.higgsfield.ai/mcp, and authorize. Then run Prompt 4 to see whether your account reports a balance through the connector. This settles the free-credits-through-MCP question for your specific account.',
+ 'Build the first free-stack site today: generate a hero clip on Dreamina or Flow, then run Prompt 1 in Claude or AI Studio, then push to GitHub Pages. Target: first live URL within two hours.',
+ 'On the MacBook, when ready for the CLI route: run the three commands in Prompt 2 inside Claude Code (a free Claude account works with Claude Code\u2019s limited free usage; Codex on a free ChatGPT plan is the alternative agent).',
+ 'Watch for free money: check higgsfield.ai/pricing and the Higgsfield blog weekly for rotating trials, and the Higgsfield for Good page for the next student cohort. Non-profit or professor applications are open now if either applies to you.',
+ 'Tell me the result of step 2 (what the balance query returns). That single answer determines whether I optimize your prompts for the official MCP pipeline or keep doubling down on the free stack.']),
+('body', 'On devices: the MacBook Pro is the build machine and the only device that needs the terminal. The iPhone handles review and iteration through the Claude and ChatGPT apps, and the ChatGPT app is where the Higgsfield plugin generates assets on the go once credits exist. The Apple Watch Ultra has no role in this workflow; nothing here requires it, and nothing here is blocked by not having it yet.'),
+],
+# ---------------------------------------------------------------- CH 7
+[('h1', 'Verified Resource Appendix'),
+('lead', 'Every load-bearing link in this playbook, with its verification status as of September 29, 2026. The catalog corrections matter: several popular entries in your curated catalog were OCR-damaged and point to repos that do not exist; the corrected destinations below are the real ones.'),
+('table', (['Resource', 'URL', 'Status'],
+ [['Higgsfield MCP server', 'https://mcp.higgsfield.ai/mcp', 'Official connector URL'],
+  ['Connector help center', 'higgsfield.ai/creator-hub/help-center/integrations/how-do-i-connect-higgsfield-to-ai-agent', 'Official setup guide (Aug 2026)'],
+  ['MCP vs web FAQ', 'higgsfield.ai/creator-hub/help-center/integrations/what-is-higgsfield-mcp', 'Official credit behavior rules'],
+  ['Higgsfield skills repo', 'github.com/higgsfield-ai/skills', 'Verified, 1,100+ stars, MIT'],
+  ['Higgsfield CLI', 'npmjs.com/package/@higgsfield/cli', 'Verified, v1.1.26, 22K weekly installs'],
+  ['ChatGPT plugin page', 'openai.com/business/plugins/higgsfield', 'Official plugin listing'],
+  ['Higgsfield for Good', 'higgsfield.ai/higgsfield-for-good', 'Applications: non-profit open, professors open, students closed'],
+  ['Unlimited MCP post', 'higgsfield.ai/blog/unlimited-mcp', '24h trial, ended July 31, 2026'],
+  ['API guide', 'higgsfield.ai/blog/generate-ai-videos-higgsfield-api', 'Prepaid USD, no subscription'],
+  ['FMHY AI index', 'fmhy.net/ai', 'Free model and video-gen index used for Chapters 4'],
+  ['html-video', 'github.com/nexu-io/html-video', 'Verified, 4,600 stars, Apache-2.0'],
+  ['OpenDesign', 'github.com/nexu-io/open-design', 'Verified, 98,000 stars, Apache-2.0'],
+  ['Instatic', 'github.com/CoreBunch/Instatic', 'Verified, 8,800 stars'],
+  ['AI Website Cloner', 'github.com/JCodesMore/ai-website-cloner-template', 'Verified, 35,400 stars (catalog had it OCR-damaged)'],
+  ['Penpot MCP', 'github.com/penpot/penpot-mcp', 'Verified, 520 stars, official']],
+ [0.24, 0.46, 0.30])),
+('body', 'For the record, the catalog entries that did not survive verification: osvalds/higgsfield, osvalds/monoid, osvalds/codex, and osvalds/scroll-world do not exist on GitHub; the real artifacts behind those ideas are the official higgsfield-ai/skills and higgsfield-ai/cli repositories plus the mcp.higgsfield.ai connector. Likewise nexu-io/open-design and JCodesMore/ai-website-cloner-template were present in the catalog but with mangled capitalization, and shadcn/improve plus anthropics/skills as written do not resolve. When a catalog entry matters, verify it before building on it; I did that for every item this playbook relies on, and the survivors are all listed above.'),
+],
+]

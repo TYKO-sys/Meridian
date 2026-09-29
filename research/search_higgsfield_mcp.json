@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://higgsfield.ai/cli",
+    "name": "Higgsfield CLI | AI Image & Video Generation for Any Agent",
+    "snippet": "Higgsfield MCP works with Claude (web, Cowork, and Claude Code), Any agent or client that supports MCP can connect to Higgsfield.",
+    "host_name": "higgsfield.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://higgsfield.ai/creator-hub/help-center/integrations/how-do-i-connect-higgsfield-to-ai-agent",
+    "name": "How to Connect Higgsfield to Claude or ChatGPT",
+    "snippet": "Open claude.ai or Claude Desktop and go to Settings → Connectors. · Click Add custom connector. · Name it Higgsfield and paste the MCP server URL ...",
+    "host_name": "higgsfield.ai",
+    "rank": 1,
+    "date": "Aug 1, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=EmZcd3xmUus",
+    "name": "Claude JUST Unlocked Images & Videos! (Higgsfield MCP & CLI)",
+    "snippet": "Share your videos with friends, family, and the world.",
+    "host_name": "www.youtube.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1to2y10/workflow_integrate_ai_video_generation_directly",
+    "name": "Integrate AI Video Generation Directly into Claude Chat",
+    "snippet": "This workflow describes how to integrate AI video generation directly into Claude chat using the Higgsfield MCP connector.",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mindstudio.ai/blog/higgsfield-mcp-claude-creative-marketing-agency",
+    "name": "How to Use Higgsfield MCP with Claude to Build a",
+    "snippet": "Connecting Higgsfield to Claude via MCP lets you generate product photos, Instagram ads, and UGC videos through natural conversation — Claude ...",
+    "host_name": "www.mindstudio.ai",
+    "rank": 4,
+    "date": "May 5, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DD1F74XiGVc",
+    "name": "How to Connect Claude AI with Higgsfield MCP Fast!",
+    "snippet": "First, login to your Claude AI dashboard. Then open the side bar ” option on the right and allow Claude AI to access your Higgsfield account.",
+    "host_name": "www.youtube.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/geopopos/higgsfield_ai_mcp",
+    "name": "geopopos/higgsfield_ai_mcp",
+    "snippet": "A Model Context Protocol (MCP) server that provides access to Higgsfield AI's cinematic-grade image and video generation capabilities. Claude ...",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "Nov 2, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://explainx.ai/mcp-servers/higgsfield-mcp",
+    "name": "Higgsfield MCP — MCP server",
+    "snippet": "Higgsfield's MCP connector transforms Claude into a comprehensive video production studio, enabling the generation of 4K AI videos using over 30 leading models.",
+    "host_name": "explainx.ai",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://higgsfield.ai/blog/unlimited-mcp",
+    "name": "Meet Higgsfield Unlimited MCP: How It Works and What",
+    "snippet": "Higgsfield launched Unlimited access for MCP, the first time unlimited generation works directly inside Claude and ChatGPT.",
+    "host_name": "higgsfield.ai",
+    "rank": 8,
+    "date": "Aug 28, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://formwise.ai/integrations/higgsfield_mcp",
+    "name": "Higgsfield MCP integration for AI agents",
+    "snippet": "Find Higgsfield MCP in your connected apps. Inside FormWise, go to Settings → Connected Services and look for Higgsfield MCP. 3. Hit \"Connect\".",
+    "host_name": "formwise.ai",
+    "rank": 9,
+    "date": "Sep 23, 2026",
+    "favicon": ""
+  }
+]

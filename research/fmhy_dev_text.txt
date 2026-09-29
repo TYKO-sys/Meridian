@@ -1,0 +1,2665 @@
+
+Developer Tools • freemediaheckyeah
+ Base64 Encoded Link 
+ The link you clicked leads to a Base64 encoded string. 
+To decode it, you can use:
+ An online tool: [LINK:https://www.base64decode.org/] Base64 Decode 
+ A userscript: [LINK:https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder] FMHY Base64 Auto Decoder 
+ (using a [LINK:/internet-tools#userscripts] userscript manager 
+ ) 
+ For more options: [LINK:/text-tools#encode-decode] Base64 Decoders 
+ Don't show again 
+ Cancel 
+ Open Link 
+ [LINK:#VPContent] Skip to content
+ [LINK:/] 
+FMHY
+Search
+K
+ Main Navigation 
+ [LINK:/posts/changelog-sites] 
+📑 Changelog
+ [LINK:https://fluffle.cc/piracyglossary] 
+📖 Glossary
+ [LINK:/other/backups] 
+💾 Backups
+🌱 Ecosystem
+ [LINK:/posts/search] 
+🌐 Search
+ [LINK:/other/FAQ] 
+❓ FAQs
+ [LINK:https://github.com/mian196/fmhy-bookmarks-extension] 
+🔖 Bookmarks
+ [LINK:https://github.com/fmhy/FMHY-SafeGuard] 
+✅ SafeGuard
+ [LINK:/startpage] 
+🚀 Startpage
+ [LINK:https://searx.fmhy.net/] 
+🔎 SearXNG
+ [LINK:https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/] 
+💡 Site Hunting
+ [LINK:https://fmhy.xyz/] 
+😇 SFW FMHY
+ [LINK:/other/selfhosting] 
+🏠 Selfhosting
+ [LINK:/other/wallpapers] 
+🏞 Wallpapers
+ [LINK:/feedback] 
+💙 Feedback
+ [LINK:https://github.com/fmhy/edit] 
+ [LINK:https://github.com/fmhy/FMHY/wiki/FMHY-Discord] 
+ [LINK:https://reddit.com/r/FREEMEDIAHECKYEAH] 
+Appearance
+ [LINK:https://github.com/fmhy/edit] 
+ [LINK:https://github.com/fmhy/FMHY/wiki/FMHY-Discord] 
+ [LINK:https://reddit.com/r/FREEMEDIAHECKYEAH] 
+Menu
+Return to top
+ Sidebar Navigation 
+ [LINK:/beginners-guide] 
+ Beginners Guide
+ [LINK:/posts] 
+ Posts
+ [LINK:/other/contributing] 
+ Contribute
+Wiki
+ [LINK:/privacy] 
+ Adblocking / Privacy
+ [LINK:/ai] 
+ Artificial Intelligence
+ [LINK:/video] 
+ Movies / TV / Anime
+ [LINK:/audio] 
+ Music / Podcasts / Radio
+ [LINK:/gaming] 
+ Gaming / Emulation
+ [LINK:/reading] 
+ Books / Comics / Manga
+ [LINK:/downloading] 
+ Downloading
+ [LINK:/torrenting] 
+ Torrenting
+ [LINK:/educational] 
+ Educational
+ [LINK:/mobile] 
+ Android / iOS
+ [LINK:/linux-macos] 
+ Linux / macOS
+ [LINK:/non-english] 
+ Non-English
+ [LINK:/misc] 
+ Miscellaneous
+Tools
+ [LINK:/system-tools] 
+ System Tools
+ [LINK:/file-tools] 
+ File Tools
+ [LINK:/internet-tools] 
+ Internet Tools
+ [LINK:/social-media-tools] 
+ Social Media Tools
+ [LINK:/text-tools] 
+ Text Tools
+ [LINK:/gaming-tools] 
+ Gaming Tools
+ [LINK:/image-tools] 
+ Image Tools
+ [LINK:/video-tools] 
+ Video Tools
+ [LINK:/audio#audio-tools] 
+ Audio Tools
+ [LINK:/educational#educational-tools] 
+ Educational Tools
+ [LINK:/developer-tools] 
+ Developer Tools
+More
+ [LINK:https://rentry.org/NSFW-Checkpoint] 
+ NSFW
+ [LINK:/unsafe] 
+ Unsafe Sites
+ [LINK:/recently-removed] 
+ Recently Removed
+ [LINK:/storage] 
+ Storage
+ Emoji Legend 
+Indexes
+Section Links
+Recommendations
+Options
+Toggle Starred
+Toggle Indexes
+Theme:
+Swarm
+On this page
+Developer Tools
+Git, Hosting, App Dev, Software Dev
+Got feedback?
+ We'd love to know what you think about this page. 
+ Share Feedback 
+Dev Communities 
+ [LINK:#dev-communities] ​
+ [LINK:https://stackoverflow.com/] StackOverflow
+ - Developer Forum
+ [LINK:https://xdaforums.com/] XDA
+ - App Development Forum / [LINK:https://discord.com/invite/e4v8qtkcBw] 
+ [LINK:https://community.spiceworks.com/] Spiceworks Community
+ - Developer Forum
+ [LINK:https://dev.to/] DEV Community
+ - Developer Forum
+ [LINK:https://www.teamblind.com/] Blind
+ - Developer Forum
+ [LINK:https://www.indiehackers.com/] IndieHackers
+ - Developer Forum
+ [LINK:https://cyberarsenal.org/] CyberArsenal
+ - Cybersecurity Forums
+ [LINK:https://late.sh/] ⁠late.sh
+ - Command-Line Style Clubhouse / [LINK:https://github.com/mpiorowski/late-sh] 
+ [LINK:https://discord.gg/graphicsprogramming] ⁠Graphics Programming
+ - Graphics Programming Discord Server
+ [LINK:https://discord.gg/K6XHBSh] ⁠Functional Programming
+ - Functional Programming Community / Discord
+ [LINK:https://tech-blogs.dev/] Tech-Blogs
+ or [LINK:https://popularity.refactoringenglish.com/] HN Popularity
+ - Blogs for Developers
+ [LINK:https://thedevs.network/] The Devs Network
+ - Developer Chat
+Dev News 
+ [LINK:#dev-news] ​
+ [LINK:https://krebsonsecurity.com/] KrebsOnSecurity
+ - Cybersecurity News
+ [LINK:https://lobste.rs/] Lobsters
+ - Dev News / [LINK:https://greasyfork.org/en/scripts/40906] Highlighter
+ [LINK:https://devurls.com/] DevURLs
+ - Dev News
+ [LINK:https://daily.dev/posts] daily.dev
+ - Dev News
+ [LINK:https://frontenddogma.com/] ⁠Frontend Dogma
+ - Web Dev News Aggregator
+ [LINK:https://cyberinsider.com/] CyberInsider
+ - Cybersecurity News
+ [LINK:https://this-week-in-rust.org/] This Week in Rust
+ - Rust News / Updates
+ [LINK:https://hackertab.dev/] hackertab.dev
+ - Dev Browser Startpages / [LINK:https://github.com/medyo/hackertab.dev] 
+ [LINK:/educational/#developer-learning] Developer Learning
+ [LINK:#developer-learning] ​
+Developer Tools 
+ [LINK:#developer-tools] ​
+️ 
+ [LINK:/storage/#data-visualization-tools] Data Visualization / Diagrams
+️ 
+ [LINK:/ai/#machine-learning] Machine / Deep Learning
+️ 
+ [LINK:/text-tools/#markup-tools] Markup Tools / Markdown Editors
+ [LINK:https://github.com/neiesc/awesome-minimalist] ⁠Awesome Minimalist
+ - Curated Minimal Dev Frameworks
+ [LINK:https://devtoys.app/] DevToys
+ - Dev Multi-Tool App / 
+ / [LINK:https://github.com/DevToys-app/DevToys] 
+ [LINK:https://devdocs.io/] DevDocs
+ / [LINK:https://github.com/freeCodeCamp/devdocs] 
+ or [LINK:https://zealdocs.org/] ZealDocs
+ - Dev Documentation / 
+ /
+ [LINK:https://imhex.werwolv.net/] ImHex
+ / [LINK:https://web.imhex.werwolv.net/] Web Version
+ / 
+ / [LINK:https://github.com/WerWolv/ImHex] 
+ or [LINK:https://hexed.it/] HexEd.it
+ - Hex Editors
+ [LINK:https://free-for.dev/] Free for Developers
+ - Tool Index / [LINK:https://github.com/ripienaar/free-for-dev] 
+ [LINK:https://tiny-helpers.dev/] Tiny Helpers
+ - Tool Index / [LINK:https://github.com/stefanjudis/tiny-helpers] 
+ [LINK:https://tinytools.directory/] Tiny Tools
+ - Tool Index
+ [LINK:https://free.hrsn.dev/] Free For Life
+ - Tool Index / [LINK:https://github.com/wdhdev/free-for-life/] 
+ [LINK:https://webdevhome.github.io/] WebdevHome
+ - Tool Index
+ [LINK:https://freestuff.dev/] Free Developer Stuff
+ - Tool Index
+ [LINK:https://github.com/ManUtopiK/awesome-stars] ⁠Awesome Stars
+ - Tool Index
+ [LINK:https://toolkit.addy.codes/] Addy
+ - Tool Index
+ [LINK:https://prototypr.io/toolbox/page/1] Prototypr
+ - Tool Index
+ [LINK:https://stackshare.io/] StackShare
+ - Tech Stack Collaboration
+ [LINK:https://github.com/awesome-foss/awesome-sysadmin] Awesome Sys Admin
+ - System Admin Resources
+ [LINK:https://github.com/DovAmir/awesome-design-patterns] Awesome Design Patterns
+ - Design Pattern Resources
+ [LINK:https://devhints.io/] Devhints
+ - Developer Cheat Sheets
+ [LINK:https://education.github.com/pack] Student Developer Pack
+ - Free Developer Tools for Students
+ [LINK:https://writefreesoftware.org/learn/participate/choose-a-license/] choose-a-license
+, [LINK:https://www.tldrlegal.com/] tl;drLegal
+, [LINK:https://spdx.org/licenses/] SPDX License List
+ or [LINK:https://choosealicense.com/] ChooseALicense
+ - License Picking Guides / Lists
+ [LINK:https://eternalterminal.dev/] Eternal Terminal
+ or [LINK:https://termius.com/] Termius
+ - SSH Clients / Servers
+ [LINK:https://beszel.dev/] Beszel
+ - Dev Data Dashboard / [LINK:https://github.com/Loriage/Beszel-Swift-App] iOS App
+ [LINK:https://www.chiark.greenend.org.uk/~sgtatham/putty/] PuTTY
+ - SSH & Telnet Client
+ [LINK:https://webhook.site/] Webhook.site
+ - Webhook Tools
+ [LINK:https://nept.cloud/] ⁠Nept
+ - Instantly Deploy 20+ Frameworks (Deploy Next.js, Python, Go, etc.)
+ [LINK:https://libraries.io/] Libraries.io
+ - Package, Framework & Tool Search
+ [LINK:https://deps.dev/] Deps.dev
+ - Open Source Package Search
+ [LINK:https://github.com/marcosnils/bin] ⁠bin
+ - Binary Manager / 
+ [LINK:https://n8n.io/] N8N
+ / [LINK:https://github.com/Zie619/n8n-workflows] Workflow Index
+ - Workflow Automation
+ [LINK:https://github.com/dvershinin/lastversion] ⁠lastversion
+ - Find / Download Latest Project Releases
+ [LINK:https://sentry.io/] Sentry
+ or [LINK:https://launchdarkly.com/] Darkly
+ - Error Tracking Platforms
+ [LINK:https://mockaroo.com/] Mockaroo
+ or [LINK:https://softwium.com/mockium/] Mockium
+ - Generate Test Data
+ [LINK:https://github.com/minimaxir/big-list-of-naughty-strings] Big List of Naughty Strings
+ - Check for Edge Case Inputs
+ [LINK:https://github.com/DarthSim/overmind] overmind
+ - Process Managers
+ [LINK:https://wakatime.com/] Wakatime
+ - Programmer Stat Tracking
+Online Toolkits [LINK:#online-toolkits] ​
+ [LINK:https://appdevtools.com/] AppDevTools
+ [LINK:https://sharevb-it-tools.vercel.app/] Sharevb IT Tools
+ / [LINK:https://github.com/sharevb/it-tools] 
+ or [LINK:https://it-tools.tech/] IT Tools
+ / [LINK:https://github.com/CorentinTh/it-tools] 
+ [LINK:https://web-toolbox.dev/en] Web Toolbox
+ [LINK:https://devina.io/] devina
+ [LINK:https://www.coderstool.com/] Coders Tool
+ [LINK:https://www.uuidtools.com/] UUID Tools
+ or [LINK:https://toolkitvault.com/uuid-generator] ⁠UUID Generator
+ - UUID Generators
+Software Dev Tools [LINK:#software-dev-tools] ​
+ [LINK:https://github.com/ligurio/sqa-wiki/wiki] Awesome Software Quality
+ - Software Quality Testing Resources
+ [LINK:https://github.com/balintkissdev/awesome-dos] Awesome DOS
+ - DOS App Development Resources
+ [LINK:https://github.com/vitalets/awesome-smart-tv] Awesome Smart TV
+ - Smart TV App Development Resources
+ [LINK:https://github.com/mtdvio/every-programmer-should-know] Every Programmer Should Know
+ or [LINK:https://github.com/SansGuidon/bookmarks] bookmarks
+ - Software Development Tools
+Electron Tools
+ - [LINK:https://www.electronjs.org/apps/] App Store
+ / [LINK:https://github.com/pd4d10/debugtron] Debugger
+ / [LINK:https://www.electron.build/] Builder
+ [LINK:https://budibase.com/] Budibase
+ or [LINK:https://www.appsmith.com/] Appsmith
+ - Internal Tool Builders
+ [LINK:https://opensource.guide/] Open Source Guides
+ - Open Source Software Tips / [LINK:https://github.com/github/opensource.guide] 
+ [LINK:https://github.com/dokploy/dokploy] Dokploy
+ - App Deployment
+ [LINK:https://publicwww.com/] PublicWWW
+ or [LINK:https://grep.app/] grep.app
+ - Source Code Search
+ [LINK:https://pm2.keymetrics.io/] PM2
+ - Process Manager
+ [LINK:https://namae.dev/] namae
+ - App Name Availability Check
+ [LINK:https://crontab.guru/] Crontab Guru
+ - Crontab Editor / Job Scheduler
+ [LINK:https://platform.uno/] Platform.uno
+ / [LINK:https://github.com/unoplatform/uno] 
+ or [LINK:https://enactjs.com/] Enact
+ - App Frameworks
+ [LINK:https://slint.dev] Slint
+ - GUI Development Tools / [LINK:https://github.com/slint-ui/slint] 
+ [LINK:https://jrsoftware.org/isinfo.php] Inno Setup
+ or [LINK:https://www.installforge.net/] InstallForge
+ - Create Installation Programs
+ [LINK:https://www.etebase.com/] Etebase
+ - Encrypted App Backend
+Mobile Dev Tools [LINK:#mobile-dev-tools] ​
+ [LINK:https://github.com/vsouza/awesome-ios] Awesome iOS
+ - iOS Development Resources
+ [LINK:https://mobbin.com/] Mobbin
+ or [LINK:https://screensdesign.com/] ScreensDesign
+ - Mobile UI Resources
+️ 
+ [LINK:/storage/#app-site-mockups] App Mockups
+ [LINK:https://github.com/skydoves/android-developer-roadmap] Android Developer Roadmap
+ [LINK:https://developer.android.com/studio] Android Studio
+ - App Creator / Builder
+ [LINK:https://github.com/thedjchi/Shizuku] Shizuku Fork
+, [LINK:https://shizuku.rikka.app/] Shizuku
+ / [LINK:https://github.com/legendsayantan/ShizuTools] Tools
+ / [LINK:https://github.com/RikkaApps/Shizuku] 
+ or [LINK:https://github.com/iamr0s/Dhizuku] Dhizuku
+ - Let Apps Use System API (Android)
+ [LINK:https://github.com/florinpop17/app-ideas] App ideas
+ - Collection of App Ideas
+ [LINK:https://icon.kitchen/] IconKitchen
+ - App Icon Generator
+ [LINK:https://github.com/JingMatrix/ChromeXt] ⁠ChromeXt
+ - Add Dev Tools / Inspect Element to Mobile Browsers
+ [LINK:https://github.com/REAndroid/APKEditor] ⁠APKEditor
+ or [LINK:https://maximoff.su/apktool/?lang=en] Apktool M
+ - APK Editing / Merging
+ [LINK:https://cs.android.com/] ⁠CS Android
+ - Android Code Search
+ [LINK:https://useanimations.com/index.html] useAnimations
+ - Animated Icon Pack
+ [LINK:https://developer.android.com/courses] Official Android Courses
+ - Android Training Courses
+ [LINK:https://android.libhunt.com/] Android Libhunt
+ - Android Packages
+ [LINK:https://romannurik.github.io/AndroidAssetStudio/] AndroidAssetStudio
+ - Android App Assets
+ [LINK:https://github.com/ReactNativeNews/React-Native-Apps/] React Native Apps
+ - React App Examples
+ [LINK:https://github.com/blacktop/ipsw-diffs] ⁠IPSW Diffs
+ - iOS Update Decompiled Diffs
+ [LINK:https://www.iosicongallery.com/] iOS Icon Gallery
+ - iOS Icon Examples
+ [LINK:https://handdrawn.software/] ⁠HandDrawnFont
+ - Create Hand-Drawn Animated Fonts for iOS Apps / [LINK:https://github.com/jipvandervelde/HandDrawnFont] 
+ [LINK:https://github.com/privacy-tech-lab/privacyflash-pro] PrivacyFlash-Pro
+ - Generate iOS Privacy Policies
+Database Tools [LINK:#database-tools] ​
+ [LINK:https://db-engines.com/en/ranking] DB Engines
+ or [LINK:https://dbdb.io/stats] DBDB
+ - Database Rankings
+ [LINK:https://github.com/mgramin/awesome-db-tools] ⁠Awesome DB Tools
+ - Database Resources
+ [LINK:https://github.com/oxnr/awesome-bigdata] Awesome Big Data
+ - Big Data Resources
+ [LINK:https://github.com/shlomi-noach/awesome-mysql] Awesome MySQL
+ - MySQL Resources
+ [LINK:https://sqlitebrowser.org/] DB Browser
+ / 
+ , [LINK:https://sqlook.com/] SQLook
+ or [LINK:https://letos.org/] SQL Lite Studio
+ - SQLite Browsers
+ [LINK:https://duckdb.org/] DuckDB
+ - Database Manager
+ [LINK:https://qdrant.tech/] Qdrant
+ - Database Manager
+ [LINK:https://www.geldata.com/] Gel
+ - Database Manager
+ [LINK:https://www.beekeeperstudio.io/] Beekeeper Studio
+ - Database Manager / [LINK:https://github.com/beekeeper-studio/beekeeper-studio] 
+ [LINK:https://airtable.com/] AirTable
+ - Database Manager / Requires Sign-Up
+ [LINK:https://baserow.io/] Baserow
+ - Database Manager / Requires Sign-Up / [LINK:https://gitlab.com/baserow/baserow] 
+ [LINK:https://github.com/nocodb/nocodb] NocoDB
+ - Database Manager / Requires Sign-Up
+ [LINK:https://sqlable.com/] Sqlable
+ - SQL Tools
+ [LINK:https://grafana.com/] Grafana
+ - Self-Hosted Dev Data Dashboard / [LINK:https://github.com/grafana/grafana] 
+ [LINK:https://dbeaver.io/] DBeaver
+ - Universal Database Tool
+ [LINK:https://chartdb.io/] ChartDB
+ - Database Visualization / [LINK:https://github.com/chartdb/chartdb] 
+ [LINK:https://bruin-data.github.io/ingestr/] Ingestr
+ - Transfer Data between Databases
+ [LINK:https://franchise.cloud/] franchise
+ - SQL Notebook
+Git Tools [LINK:#git-tools] ​
+ [LINK:https://console.substack.com/] Console
+ - Search Projects on OpenSourceHub.io
+ [LINK:https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md] Forge Comparison
+ or [LINK:https://forgejo.org/compare/#only-develops-free-software] Forgejo
+ - Git Collab Tool Comparison
+️ 
+ [LINK:/misc/#git-project-indexes] Git Project Indexes
+ [LINK:https://git-fork.com/] Fork
+ (infinite trial) or [LINK:https://github.com/gitbutlerapp/gitbutler] GitButler
+ - Git Desktop Clients
+ [LINK:https://git.gay/] ⁠git.gay
+, [LINK:https://github.com/] GitHub.com
+, [LINK:https://tangled.org/] ⁠Tangled
+ / [LINK:https://discord.com/invite/W7SRR4xHhd] 
+, [LINK:https://about.gitlab.com/] GitLab
+, [LINK:https://radicle.dev/] Radicle
+, [LINK:https://upd.dev/] ⁠Upd.dev
+, [LINK:https://codeberg.org/] Codeberg
+ / [LINK:https://matrix.to/#/#codeberg-space:matrix.org] Matrix
+, [LINK:https://git.sr.ht/] git.sr.ht
+, [LINK:https://gitgud.io/] GitGud
+ or [LINK:https://notabug.org/] Notabug
+ - Git Hosting Services
+ [LINK:https://forgejo.org/] Forgejo
+ or [LINK:https://about.gitea.com/] Gitea
+ - Self-Hosted Repository Platforms
+ [LINK:https://git-scm.com/] Git
+ or [LINK:https://www.jj-vcs.dev] Jujutsu
+ - Version Control Systems
+ [LINK:https://wizardzines.com/git-cheat-sheet.pdf] ⁠Git Cheat Sheet
+ - Git Cheat Sheet
+ [LINK:https://github.com/initialcommit-com/git-sim] git-sim
+ - Visually Simulate Git Operations Before Running
+ [LINK:https://www.gitkraken.com/] GitKraken
+, [LINK:https://github.com/FredrikNoren/ungit] Ungit
+ or [LINK:https://rela.dev/] RelaGit
+ - Git GUIs
+ [LINK:https://github.com/jesseduffield/lazygit] lazygit
+ or [LINK:https://github.com/gitui-org/gitui] gitui
+ - Git TUIs
+ [LINK:https://gut-cli.dev/] Gut
+, [LINK:https://cli.github.com/] GitHub Cli
+ or [LINK:https://github.com/altsem/gitu] gitu
+ - Git CLI / TUI
+ [LINK:https://github.com/lindell/multi-gitter] multi-gitter
+ - Bulk Repository Updater
+ [LINK:https://difftastic.wilfred.me.uk/] ⁠Difftastic
+ / [LINK:https://github.com/Wilfred/difftastic] 
+ or [LINK:https://github.com/dandavison/delta] Delta
+ - Syntax Highlighting / Diff Tools
+ [LINK:https://www.conventionalcommits.org/] ⁠Conventional Commits
+ - Commit Standardization / [LINK:https://github.com/conventional-commits/conventionalcommits.org] 
+ [LINK:https://pre-commit.com/] pre-commit
+ - Manage / Maintain Pre-Commit Hooks / [LINK:https://github.com/pre-commit/] 
+ [LINK:https://commitlint.js.org/] commitlint
+ - Lint Commit Messages / [LINK:https://github.com/conventional-changelog/commitlint] 
+ [LINK:https://git-quick-stats.sh/] GIT Quick Stats
+ - View Git Statistics / [LINK:https://github.com/git-quick-stats/git-quick-stats] 
+GitHub Tools [LINK:#github-tools] ​
+ [LINK:https://ossinsight.io/] OSS Insight
+ - GitHub Project Indexes
+ [LINK:https://github.com/MunGell/awesome-for-beginners] Awesome First PR Opportunities
+ or [LINK:https://up-for-grabs.net/] up-for-grabs
+ - Beginner FOSS Project Index
+ [LINK:https://github.com/sdras/awesome-actions] Awesome Actions
+ - GitHub Action Resources
+ [LINK:https://stefanbuck.com/awesome-browser-extensions-for-github] Awesome Browser Extensions
+ - GitHub Browser Extensions
+ [LINK:https://github.com/matiassingers/awesome-readme] Awesome README
+ - GitHub Readme Resources
+ [LINK:https://dev.to/envoy_/150-badges-for-github-pnk] Awesome Badges
+ - GitHub Badge Resources
+ [LINK:https://github.com/refined-github/refined-github] refined-github
+ - Improved GitHub Interface
+ [LINK:https://github.com/apps/desktop] GitHub Desktop
+ / [LINK:https://github.com/desktop-plus/desktop-plus] Linux
+ - GitHub Desktop Client
+ [LINK:https://isgithubcooked.com/] ⁠Is GitHub Cooked?
+ - GitHub Incident History
+ [LINK:https://codeberg.org/gothub/gothub] Gothub
+ - GitHub Frontend
+ [LINK:https://github.com/tiimgreen/github-cheat-sheet] GitHub Cheat Sheet
+ - GitHub Cheat Sheet
+ [LINK:https://tjpalmer.github.io/languish/] Languish
+ - GitHub Programming Language Stats
+ [LINK:https://webdorks.vercel.app/] GitHub Dorks
+ - GitHub Search Tool
+ [LINK:https://imgbot.net/] Imgbot
+ - GitHub Image Compression / [LINK:https://github.com/imgbot/Imgbot] 
+ [LINK:https://octobox.io/] Octobox
+, [LINK:https://www.gitify.io/] Gitify
+ or [LINK:https://catlight.io/] CatLight
+ - GitHub Notifications
+ [LINK:https://download-directory.github.io/] Download Directory
+ - Download GitHub Repo Sub-Folders / Files
+ [LINK:https://useful-forks.github.io/] useful-forks
+ or [LINK:https://andremiras.github.io/gitpop3/] GitPop3
+ or [LINK:https://techgaun.github.io/active-forks/index.html] Active-Forks
+ / [LINK:https://github.com/techgaun/active-forks] 
+ - Find Active GitHub Forks
+ [LINK:https://graphite.com/] Graphite
+ or [LINK:https://stacking.dev/] Stacking
+ - Improve Pull Request Workflow
+ [LINK:https://app.semanticdiff.com/] SemanticDiff
+ - Review Pull Requests using Language Aware Diff
+ [LINK:https://mirrowel.github.io/Mirrobot-agent/?bot=Mirrobot-Agent] Mirrobot
+ - Customizable AI GitHub Pull Request Review / [LINK:https://github.com/Mirrowel/Mirrobot-agent] 
+ [LINK:https://diffshub.com/] ⁠Diffshub
+ - GitHub Diff Checker
+ [LINK:https://octolinker.vercel.app/] OctoLinker
+ - Make GitHub Code References Clickable
+ [LINK:https://www.octotree.io/] Octotree
+ - GitHub Repo File Tree View
+ [LINK:https://nightly.link/] Nightly.link
+ - GitHub Shareable Nightly Links
+ [LINK:https://ghgrab.readthedocs.io/] ⁠GhGrab
+ - GitHub Specific File Downloader / [LINK:https://github.com/abhixdd/ghgrab] 
+ [LINK:https://nektosact.com/] act
+ - Run GitHub Actions Locally / [LINK:https://github.com/nektos/act] 
+ [LINK:https://star-history.com/] Star History
+ - Repository Star History Graph
+ [LINK:https://gitstar-ranking.com/] Gitstar Ranking
+ - Git Repo Star Rankings
+ [LINK:https://telegram.me/GithubReleasesBot] GithubReleasesBot
+ - Repository Change Feeds
+ [LINK:https://github.com/stats-organization/github-stats-extended] GitHub Stats Extended
+ - Dynamically Generated GitHub Readme Stats
+ [LINK:https://skillicons.dev/] Skill Icons
+ or [LINK:https://github.com/alexandresanlim/Badges4-README.md-Profile] ⁠Badges 4 README
+ - Skill Badges for GitHub Readme / Resumes
+ [LINK:https://forthebadge.com/] For the Badge
+ or [LINK:https://jmcrafter26.github.io/badges/] ⁠Fancy Badges
+ / [LINK:https://github.com/JMcrafter26/badges] 
+ - Custom GitHub Badges
+ [LINK:https://github.com/maurodesouza/profile-readme-generator] ⁠Profile Readme Generator
+ - GitHub Profile Generator / Editor
+ [LINK:https://annihil.github.io/github-spray-generator] GitHub Spray
+ - Draw on GitHub Contribution Page
+ [LINK:https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66] GitHub Snake
+ - Enable Snake Game on GitHub Readme
+ [LINK:https://rahuldkjain.github.io/gh-profile-readme-generator/] GitHub Profile Readme Generator
+ - GitHub Readme Generators
+ [LINK:https://gitstalk.netlify.app/] GitStalk
+ - GitHub Profile Info Search
+ [LINK:https://github.com/rzashakeri/beautify-github-profile] Beautify GitHub Profile
+ - Custom GitHub Profile Resources
+ [LINK:https://github.com/material-extensions/material-icons-browser-extension] github-material-icons-extension
+ - Material Icons
+ [LINK:https://gist.io/] gist.io
+ - Git Blog Platform
+Docker Tools [LINK:#docker-tools] ​
+ [LINK:https://average.joe.dev/awesome-docker/] Awesome Docker
+ - Docker Services Index / [LINK:https://github.com/veggiemonk/awesome-docker] 
+ [LINK:https://github.com/DoTheEvo/selfhosted-apps-docker] Selfhosted-Apps-Docker
+ - Self-Hosted Docker Apps / Guides
+ [LINK:https://www.docker.com/] Docker
+ / [LINK:https://www.docker.com/products/docker-desktop/] Desktop App
+ - Build, Manage and Run Apps in Containers
+ [LINK:https://podman.io/] Podman
+ / [LINK:https://podman-desktop.io/] 2
+ - Root-less, Daemon-less, Open Source Docker Alternative / [LINK:https://github.com/containers/podman] 
+ / [LINK:https://github.com/containers/podman-compose] Compose
+ [LINK:https://portainer.io/] Portainer
+, [LINK:https://dockhand.pro/] Dockhand
+ / [LINK:https://github.com/Finsys/dockhand] 
+, [LINK:https://dockge.kuma.pet/] DockGE
+ or [LINK:https://moncho.github.io/dry/] moncho
+ - Container Managers
+ [LINK:https://www.composerize.com/] Composerize
+ - Compose Docker Files
+ [LINK:https://hub.docker.com/] Docker Hub
+, [LINK:https://linuxserver.io/] 2
+, [LINK:https://hotio.dev/] 3
+ - Docker Images
+ [LINK:https://github.com/jesseduffield/lazydocker] LazyDocker
+, [LINK:https://github.com/mrjackwills/oxker] oxker
+, [LINK:https://getarcane.app/] Arcane
+ / [LINK:https://github.com/getarcaneapp/arcane] 
+ or [LINK:https://github.com/will-moss/isaiah] Isaiah
+ - Docker Managers / TUIs
+ [LINK:https://github.com/goodwithtech/dockle] Dockle
+ - Image Linter
+ [LINK:https://github.com/wagoodman/dive] Dive
+ - Analyze Images
+ [LINK:https://watchtower.nickfedor.com/] WatchTower
+ - Container Automation / [LINK:https://github.com/nicholas-fedor/watchtower] 
+ [LINK:https://dozzle.dev/] Dozzle
+ - Log Viewer
+ [LINK:https://github.com/willfarrell/docker-autoheal] Docker AutoHeal
+ - Container Monitor
+ [LINK:https://crazymax.dev/diun/] Diun
+ - Docker Notifications
+ [LINK:https://termible.io/] Termible
+ - Docker Powered Site Terminals
+CLI Tools [LINK:#cli-tools] ​
+️ 
+ [LINK:/linux-macos/#cli-cheat-sheets] CLI Cheat Sheets
+ [LINK:https://github.com/charmbracelet/vhs] ⁠VHS
+ - Write Terminal GIFs as Code
+ [LINK:https://charm.land/] Charm
+ - Add Backend to Terminal-Based Apps
+ [LINK:https://ohmyposh.dev/] OhMyPosh
+ - Terminal Theme Engines
+ [LINK:https://github.com/charmbracelet/lipgloss] Lip Gloss
+ - Style Definitions for Terminal Layouts
+ [LINK:https://sshx.io/] sshx
+ - Share Terminal Screen / [LINK:https://github.com/ekzhang/sshx] 
+ [LINK:https://github.com/BurntSushi/ripgrep] ripgrep
+ or [LINK:https://sift-tool.org/] Sift
+ - 
+grep
+ Alternatives
+ [LINK:https://github.com/sharkdp/bat] ⁠bat
+ / [LINK:https://github.com/eth-p/bat-extras/] Extras
+ or [LINK:https://shiki.style/] Shiki
+ - Log Highlighters
+ [LINK:https://edbrowse.org/] Edbrowse
+ - Command Line Editor / Browser / Mail Client
+ [LINK:https://command-not-found.com/] Command Not Found
+ - Install Missing Commands
+ [LINK:https://atuin.sh/] Atuin
+ - Sync, Search and Backup Shell History
+ [LINK:https://github.com/Nukesor/pueue] pueue
+ - Shell Command Manager
+ [LINK:https://github.com/ajeetdsouza/zoxide] Zoxide
+ - Improved CD Command
+ [LINK:https://github.com/sindresorhus/yoctocolors] yoctocolors
+ - Command Line Coloring Package
+ [LINK:https://github.com/sindresorhus/open] open
+ - Open URLs, Files, Executables in CLI or Scripts
+ [LINK:https://www.visidata.org/] VisiData
+ - Spreadsheet CLI Editor
+API Tools [LINK:#api-tools] ​
+ [LINK:https://github.com/public-apis/public-apis] Public APIs
+, [LINK:https://apilist.fun/] API List
+, [LINK:https://publicapis.dev/] Public APIs
+, [LINK:https://apislist.com/] APIsList
+, [LINK:https://apis.guru/] APIs Guru
+, [LINK:https://www.freepublicapis.com/] FreePublicAPIs
+, [LINK:https://github.com/public-api-lists/public-api-lists] Public API Lists
+ or [LINK:https://publicapis.io/] ⁠PublicAPIs
+ - API Indexes
+ [LINK:https://rentry.co/FMHYB64#streaming-apis] Streaming Site APIs
+ [LINK:https://rentry.co/manga-apis] Manga APIs
+ - Manga Site APIs
+ [LINK:https://github.com/cporter202/scraping-apis-for-devs] Dev Scraping APIs
+ - ⁠Scraping APIs for Developers
+ [LINK:https://github.com/MobilityData/awesome-transit] ⁠awesome-transit
+ - Transit Focused APIs
+ [LINK:https://api.nasa.gov/] ⁠NASA API
+ - NASA Open APIs
+ [LINK:https://freeaitoolslist.vercel.app/] ⁠Free AI Tools
+ / [LINK:https://github.com/ShaikhWarsi/free-ai-tools] 
+, [LINK:https://openrouter.ai/models?max_price=0] OpenRouter
+ or [LINK:https://api.together.xyz/playground] API Together
+ - LLM / AI API Indexes
+ [LINK:https://countless.dev/] AI Price Compare
+ or 
+ [LINK:https://pricepertoken.com/] PricePerToken
+ - AI / LLM API Price Comparisons
+ [LINK:https://hoppscotch.io/] hoppscotch
+, [LINK:https://firecamp.dev/] Firecamp
+ or [LINK:https://strapi.io/] Strapi
+ - API Builders
+ [LINK:https://coorenlabs.com/] ⁠CoorenLabs
+ / [LINK:https://discord.gg/r5tfDZmADV] 
+ / [LINK:https://github.com/coorenlabs/cooren] 
+ or [LINK:https://docs.consumet.org/list-of-providers] Consumet
+ - Piracy Site Metadata APIs / Scraping
+ [LINK:https://resend.com/] ⁠Resend
+ - Email API
+ [LINK:https://www.meilisearch.com/] Meilisearch
+ - Open-Source Site Search Engine / [LINK:https://github.com/meilisearch/meilisearch] 
+ [LINK:https://discord.com/invite/mMyN7dYdCJ] Secrets To AI
+ - AI API Gateway
+ [LINK:https://omniroute.online/] ⁠OmniRoute
+ / [LINK:https://github.com/diegosouzapw/OmniRoute] 
+ - Proxy for Developers
+ [LINK:https://sub.wyzie.io/] Wyzie Subs
+ - Subtitle Scraping API / [LINK:https://www.npmjs.com/package/wyzie-lib] NPM Package
+ / [LINK:https://docs.wyzie.io/] Docs
+ [LINK:https://httpie.io/] HTTPie
+ - Test REST, GraphQL, and HTTP APIs
+ [LINK:https://resttesttest.com/] Rest Test Test
+ - Test REST / CORS Services
+ [LINK:https://beeceptor.com/] Beeceptor
+ - Mock REST APIs
+ [LINK:https://pipedream.com/] Pipedream
+ - Connect APIs
+ [LINK:https://fastapi.tiangolo.com/] FastAPI
+ - API Framework
+ [LINK:https://posting.sh/] Posting
+ / [LINK:https://github.com/darrenburns/posting] 
+, [LINK:https://insomnia.rest/] Insomnia
+ or [LINK:https://yaak.app/] Yaak
+ - API Clients
+ [LINK:https://www.usebruno.com/] Bruno
+ - API Testing Client
+ [LINK:https://redocly.github.io/redoc/] ReDoc
+ - Generate API Documentation
+ [LINK:https://jsonplaceholder.typicode.com/] {JSON} Placeholder
+, [LINK:https://jsoning.com/api/] jsoning
+ or [LINK:https://www.wiremock.io/] WireMock Cloud
+ - Mock APIs
+ [LINK:https://steinhq.com/] Stein
+ - Turn Google Sheets into Database API
+ [LINK:https://docs.discord.food/] Userdoccers
+ - Unofficial Discord API Documentation
+ [LINK:https://github.com/Apacheli/discord-api-libs] discord-api-libs
+ - Community Libraries for Discord API
+ [LINK:https://github.com/Phineas/lanyard] Lanyard
+ - Export Discord Rich Presence to API Endpoint / Websocket / [LINK:https://discord.gg/lanyard] 
+ [LINK:https://core.telegram.org/bots] Telegram Bot API
+ / [LINK:https://github.com/tdlib/telegram-bot-api] 
+ or [LINK:https://github.com/php-telegram-bot/core] PHP Telegram Bot
+ - Telegram Bot API
+ [LINK:https://github.com/codebam/cf-workers-telegram-bot] cf-workers-telegram-bot
+ - Serverless Telegram Bot / [LINK:https://github.com/codebam/cf-workers-telegram-bot] 
+ [LINK:https://plaid.com/] Plaid
+ - Financial Account API / [LINK:https://github.com/plaid] 
+Game Dev Tools 
+ [LINK:#game-dev-tools] ​
+ [LINK:https://www.pcgamingwiki.com/wiki/Category:Engines] PCGamingWiki Engine List
+, [LINK:https://wikipedia.org/wiki/List_of_game_engines] Wiki Engine List
+, [LINK:https://github.com/stevinz/awesome-game-engine-dev] Awesome Game Engine
+ or [LINK:https://rentry.co/Game-Engines] Game-Engines
+ - Game Engine Development Resources
+ [LINK:https://enginesdatabase.com/] EnginesDatabase
+ - Game Engines Database
+ [LINK:https://github.com/Calinou/awesome-gamedev] Awesome Game Dev
+ - Game Dev Resources
+ [LINK:https://github.com/vhladiienko/awesome-game-production] Awesome Game Production
+ - Game Production Resources
+️ 
+ [LINK:/educational/#game-development] Learn Game Development
+ [LINK:https://gamedevtorch.com/] ⁠GameDev Torch
+ - Multi-Site Game Dev Search Engine
+ [LINK:https://hiddenpalace.org/] HiddenPalace
+ - Game Development Media Archive
+ [LINK:https://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html] Tommti Systems
+ - 3D Benchmark Tools
+ [LINK:https://github.com/wolfpld/tracy] Tracy Profiler
+ - Frame Profiler
+ [LINK:https://github.com/playtabegg/rialto1] ⁠Rialto
+ - Create Custom Disc ISOs / Installer Menus
+ [LINK:https://www.doshaven.eu/programming-tools/] Doshaven Programming List
+ - DOS Game Creator Tools
+ [LINK:https://github.com/paladin-t/fantasy] Fantasy Consoles / Computers
+ - List of Fantasy Consoles and Computers
+ [LINK:https://thoseawesomeguys.com/prompts/] Xelu's Controller Prompts
+ - Free Game Prompts / [LINK:https://youtu.be/d6GtGbI-now] Video
+ [LINK:https://github.com/coding-horror/basic-computer-games] Basic Computer Games
+ - Basic Computer Game Examples
+ [LINK:https://decomp.wiki/] ⁠Decompedia
+ - Game Decomp Resources
+ [LINK:https://github.com/PacifistMC/Forgix] Forgix
+ - Merge Minecraft Mod Loaders
+ [LINK:https://github.com/pygame-community/pygame-ce] pygame-ce
+ - Python Game Dev Resources
+Game Assets [LINK:#game-assets] ​
+️ 
+ [LINK:/audio/#sfx-loops] Sound Effect Sites
+ [LINK:https://itch.io/game-assets/free] Itch.io Assets
+ - Free Game Assets
+ [LINK:https://www.kenney.nl/] Kenney
+ - Free Game Assets
+ [LINK:https://devassets.com/] Dev Assets
+ - Free Game Assets
+ [LINK:https://quaternius.com/] Quaternius
+ - Free Game Assets
+ [LINK:https://www.gameuidatabase.com/] Game UI Database
+ - Game UI Database
+ [LINK:https://game-icons.net/] Game-icons
+ - Game Icons
+ [LINK:https://www.reddit.com/r/gameassets/] r/GameAssets
+ - Reddit Community
+ [LINK:https://github.com/AssetRipper/AssetRipper] AssetRipper
+ / [LINK:https://discord.gg/XqXa53W2Yh] 
+ or [LINK:https://github.com/zhangjiequan/AssetStudio] AssetStudio
+ - Extract Assets from Unity Files
+ [LINK:https://craftpix.net/freebies/] CraftPix
+ - 2D Game Assets
+ [LINK:https://github.com/xonotic] xonotic
+ or [LINK:https://github.com/Warsow] Warsow
+ - FPS Game Assets
+ [LINK:https://www.gamedevmarket.net/] GameDev Market
+ - Assets for Indie Developers
+ [LINK:https://opengameart.org/] OpenGameArt.org
+ - Game Art Community
+ [LINK:https://www.unityfreaks.com/] UnityFreaks
+, [LINK:https://assetstore.unity.com/search#cf-ec_category=3d&nf-ec_price_filter=0...0] AssetStore
+ or [LINK:https://t.me/GameDevUE] GameDevUE
+ - Unity & Unreal Engine Assets
+ [LINK:https://www.steamgriddb.com/] SteamGridDB
+ - Custom Video Game Assets / [LINK:https://www.steamgriddb.com/boop] Automation
+ [LINK:https://s2v.app/] S2V
+ - Source 2 Viewer & Decompiler / [LINK:https://github.com/ValveResourceFormat/ValveResourceFormat] 
+Asset Creation [LINK:#asset-creation] ​
+️ 
+ [LINK:/image-tools/#_3d-models] 3D Models / Modeling Tools
+️ 
+ [LINK:/image-tools/] Design Tools / Resources
+️ 
+ [LINK:/educational/#art-editing] Art Resources
+️ 
+ [LINK:/video-tools/#animation-tools] Animation Resources
+️ 
+ [LINK:/text-tools/#writing-tools] Writing Tools
+ [LINK:https://github.com/Immediate-Mode-UI/Nuklear] Nuklear
+ - Game GUI Creator
+ [LINK:https://www.hudsandguis.com/] HUDSxGUIS
+ - UI Design Concepts
+ [LINK:https://pnjeffries.itch.io/spartan-procjam-edition] SPARTAN Procedural
+ - Procedural Tile Generator
+ [LINK:https://gamesounds.xyz/] Game Sounds
+ - Royalty Free Game Sounds
+ [LINK:https://pixwlk.itch.io/bleeper] Bleeper
+ or [LINK:https://jfxr.frozenfractal.com/] jfxr
+ - Game Sound Effects Creators
+ [LINK:https://www.engine-sim.parts/] Engine Simulator
+ - Engine Sound Simulator / [LINK:https://github.com/ange-yaghi/engine-sim] 
+ [LINK:https://spacefoon.itch.io/ez-game-audio-format-conversion] EZ Conversion
+ - Game Audio Converter
+Map Creators / Editors [LINK:#map-creators-editors] ​
+️ 
+ [LINK:/gaming-tools/#rpg-worldbuilding] RPG / Fantasy Building Tools
+ [LINK:https://www.spritefusion.com/] Sprite Fusion
+ / [LINK:https://discord.gg/8sCEAspmBV] 
+, [LINK:https://www.mapeditor.org/] Tiled
+ or [LINK:https://www.tilesetter.org/] Tilesetter
+ - Tilemap Editors
+ [LINK:https://ldtk.io/] LDtk
+ or [LINK:https://ogmo-editor-3.github.io/] OGMO Editor
+ - 2D Level Editors
+ [LINK:https://subchristsoftware.itch.io/charpad-c64-free] CharPad
+ - Commodore 64 Graphics Editor
+ [LINK:https://azagaya.itch.io/laigter] Laigter
+ - Map Generator for 2D Sprites
+IDEs / Code Editors 
+ [LINK:#ides-code-editors] ​
+ [LINK:https://github.com/xjh22222228/awesome-web-editor] ⁠Awesome Web Editor
+ - FOSS Web Editor Index
+️ 
+ [LINK:/text-tools/#text-editors] Text Editors / Notes
+ [LINK:https://vscodium.com/] VSCodium
+ or 
+ [LINK:https://code.visualstudio.com/] Visual Studio Code
+, [LINK:https://vscode.dev/] 2
+, [LINK:https://cs50.dev/] 3
+ - Code Editor / [LINK:/developer-tools/#vscode-tools] Tools / Extensions
+ [LINK:https://zed.dev/] zed
+ - Code Editor / [LINK:https://zed-themes.com/] Themes
+ / [LINK:https://github.com/zed-industries/zed] 
+ / 
+ [LINK:https://jetbrains.com/] JetBrains
+ - Professional IDEs / [LINK:https://rentry.co/FMHYB64#jbrains] Features
+ (occasional downtime) / 
+ [LINK:https://neovim.io/] Neovim
+ - Code Editor / [LINK:https://matrix.to/#/#neovim:matrix.org] Matrix
+ / 
+ [LINK:https://lite-xl.com/] Lite XL
+ or [LINK:https://pragtical.dev/] Pragtical
+ - Code Editor / [LINK:https://github.com/lite-xl/lite-xl-plugin-manager] Plugin Manager
+ / [LINK:https://github.com/lite-xl/lite-xl-plugins] Plugins
+ / [LINK:https://github.com/lite-xl/lite-xl-colors] Themes
+ / 
+ [LINK:https://www.gnu.org/software/emacs/] Emacs
+ - Code Editor / [LINK:https://github.com/emacs-tw/awesome-emacs] Resources
+ / 
+ [LINK:https://webden.dev/] WebDen
+, [LINK:https://sharplab.io/] Sharplab
+, [LINK:https://livecodes.io/] LiveCodes
+ / [LINK:https://github.com/live-codes/livecodes] 
+, [LINK:https://www.codingame.com/learn] tech.io
+ or [LINK:https://www.tutorialspoint.com/codingground.htm] CodingGround
+ - Code Playgrounds
+ [LINK:https://heynote.com/] Heynote
+ - Code Editor / Notepad
+ [LINK:https://edna.arslexis.io/] Edna
+ - Web App / Code Editor / Notepad
+ [LINK:https://trinket.io/] Trinket
+ - Web App / Live Preview / Requires Sign-Up / Online Workspace
+ [LINK:https://helix-editor.com/] Helix
+ - Kakoune & Neovim Inspired Code Editor
+ [LINK:https://www.geany.org/] Geany
+ - Lightweight Code Editor
+ [LINK:https://getfresh.dev/] Fresh
+ - TUI Code Editor
+ [LINK:https://brackets.io/] Brackets
+ - Webapp / Live Preview
+ [LINK:https://bluefish.openoffice.nl/index.html] Bluefish
+ - Code Editor / [LINK:https://templates.openoffice.org/] Templates
+ [LINK:https://cudatext.github.io/] CudaText
+ - Code Editor
+ [LINK:https://lap.dev/lapce/] Lapce
+ - Code Editor / [LINK:https://github.com/lapce/lapce/] 
+ [LINK:https://github.com/SpartanJ/ecode] ecode
+ - Code Editor
+ [LINK:https://gram-editor.com/] GRAM
+ - Code Editor / [LINK:https://codeberg.org/GramEditor/gram] 
+ [LINK:https://cpeditor.org/] Competitive Editor
+ - Competitive Programming Editor
+ [LINK:https://jsonhero.io/] JSON Hero
+ - JSON Viewer / Editor
+ [LINK:https://github.com/ameerthehacker/blazepack] Blazepack
+, [LINK:https://flox.dev/] Flox
+ or [LINK:https://devpod.sh] DevPod
+ - Development Environments
+ [LINK:https://netbeans.apache.org/] Apache NetBeans
+, [LINK:https://www.kdevelop.org/] KDevelop
+, [LINK:https://mitosis.builder.io/] Mitosis
+, [LINK:https://www.lazarus-ide.org/] Lazarus
+ or [LINK:https://developers.redhat.com/products/openshift-dev-spaces/overview] OpenShift
+ - Cross-Platform IDEs
+ [LINK:https://tidalcycles.org/] TidalCycles
+ - Live Algorithmic Coding Environment / [LINK:https://discord.com/invite/ugFq7KfGnB] 
+ [LINK:https://github.com/chrissimpkins/codeface] Codeface
+, [LINK:https://monaspace.githubnext.com/] Monaspace
+, [LINK:https://www.programmingfonts.org/] Programming Fonts
+ or [LINK:https://devfonts.gafi.dev/] Dev Fonts
+ - Fonts for Coding / [LINK:https://www.codingfont.com/] Comparison
+Cloud IDEs / Collab [LINK:#cloud-ides-collab] ​
+ [LINK:https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md] cloud
+ - Cloud Platform Index
+ [LINK:https://rentry.co/Heroku-Alt] Heroku-Alt
+ or [LINK:https://github.com/meanands/heroku-free-alternatives] heroku-free-alternatives
+ - Heroku Alternatives
+️ 
+ [LINK:/text-tools/#text-code-collaboration] Code Collaboration Platforms
+ [LINK:https://colab.research.google.com/] Google Colaboratory
+ - Cloud IDE
+ [LINK:https://codesandbox.io/] CodeSandbox
+ or [LINK:https://stackblitz.com/] StackBlitz
+ - VSCode Cloud IDE
+ [LINK:https://ide.judge0.com/] judge0
+ - Online Code Editor / [LINK:https://discord.com/invite/GRc3v6n] 
+ [LINK:https://www.atheos.io/] Atheos
+ - Requires Server / Cloud IDE / [LINK:https://github.com/Atheos/Atheos] 
+ [LINK:https://datalore.jetbrains.com/] Datalore
+ - Cloud IDE
+ [LINK:https://jsfiddle.net/] JSFiddle
+ - Cloud IDE
+ [LINK:https://html-css-js.com/] html-css-js
+ - Cloud IDE
+ [LINK:https://app.coderpad.io/sandbox] CoderPad
+ - Cloud IDE
+ [LINK:https://www.ideone.com/] Ideone
+ - Cloud IDE
+ [LINK:https://playcode.io/] PlayCode
+ - Cloud IDE
+ [LINK:https://github.com/pad-ws/pad.ws] pad.ws
+ - Whiteboard Style Cloud IDE
+ [LINK:https://workspaces.openshift.com/] Openshift
+ - Cloud IDE / Eclipse Che
+ [LINK:https://shell.cloud.google.com/] Shell Cloud
+ - Google Cloud Shell Environment
+ [LINK:https://glot.io/] glot.io
+ - Pastebin with Runnable Snippets, API & Compiler
+ [LINK:https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/] Notebooks.azure
+ - Access Jupyter Notebooks in VS Code
+ [LINK:https://jupyter-server.readthedocs.io] Jupyter Server
+ - Jupyter Services / APIs
+ [LINK:https://anywidget.dev] Anywidget
+ - Create Jupyter Widgets / [LINK:https://github.com/manzt/anywidget] 
+ [LINK:https://cocalc.ai/] CoCalc
+ - Virtual online workspace
+ [LINK:https://codepen.io/] CodePen
+, [LINK:https://webmaker.app/] ⁠Web Maker
+ / [LINK:https://github.com/chinchang/web-maker/] 
+ or [LINK:https://liveweave.com/] Liveweave
+ - Code Sandbox
+ [LINK:https://www.instantdb.com/] InstantDB
+ - Collaborative App Framework
+Android Code Editors [LINK:#android-code-editors] ​
+ [LINK:https://acode.app] Acode
+ - Android Code Editor / [LINK:https://github.com/Acode-Foundation/Acode] 
+ [LINK:https://github.com/massivemadness/Squircle-CE] Squircle-CE
+ - Android Code Editor
+ [LINK:https://github.com/Rosemoe/sora-editor] Sora
+ - Android Code Editor
+ [LINK:https://github.com/Visual-Code-Space/Visual-Code-Space] Visual Code Space
+ - Android Code Editor
+ [LINK:https://play.google.com/store/apps/details?id=io.spck] Spck Editor
+ - Android Code Editor
+ [LINK:https://github.com/vhqtvn/VHEditor-Android] VHEditor
+ - VSCode Editor
+ [LINK:https://github.com/NamanShergill/diohub] diohub
+, [LINK:https://github.com/catpuppyapp/PuppyGit] PuppyGit
+ or [LINK:https://github.com/slapperwan/gh4a] OctoDroid
+ - Android Git Clients
+ [LINK:https://github.com/ViscousPot/GitSync] GitSync
+ - Android Git Remote Repo Sync
+ [LINK:https://github.com/adeeteya/FlutterMarkdownEditor] FlutterMarkdownEditor
+ - Markdown Editor
+Coding Tools [LINK:#coding-tools] ​
+ [LINK:https://github.com/terkelg/awesome-creative-coding] Awesome Creative Coding
+ - Creative Coding Resources
+ [LINK:https://prettier.io/] Prettier
+, [LINK:https://biomejs.dev/] Biome
+ / [LINK:https://github.com/biomejs/biome/] 
+ or [LINK:https://codebeautify.org/] codebeautify
+ - Code Formatting Tools
+ [LINK:https://editorconfig.org/] editorconfig
+ - Maintain Code Styles Across Editors
+ [LINK:https://themeselection.com/] ThemesElection
+ or [LINK:https://draculatheme.com/] Dracula
+ - Code Editor Themes
+ [LINK:https://github.com/charmbracelet/freeze] Freeze
+ - Generate Images of Code / Terminal Output
+ [LINK:https://github.com/XAMPPRocky/tokei] Tokei
+ - Code Statistics Tool
+ [LINK:https://www.mycompiler.io/] myCompiler
+, [LINK:https://compiler-explorer.com/] Compiler Explorer
+ / [LINK:https://godbolt.org/] 2
+, [LINK:https://onecompiler.com/] OneCompiler
+, [LINK:https://www.ryugod.com/] ryugod
+ or [LINK:https://wandbox.org/] Wandbox
+ - Online Compilers / Explorers
+ [LINK:https://dogbolt.org/] DogBolt
+ - Decompiler Explorers / [LINK:https://github.com/decompiler-explorer/decompiler-explorer] 
+ [LINK:https://app.code2flow.com/] Code2Flow
+ or [LINK:https://flowchart.js.org/] Flowchart.js
+ - Code to Flowchart Converter
+ [LINK:https://github.com/riquito/tuc] tuc
+ - Improved Code Cut
+ [LINK:https://masscode.io/] massCode
+ - Code Snippet Manager
+ [LINK:https://www.ray.so/] Ray
+, [LINK:https://carbon.now.sh/] Carbon
+, [LINK:https://codeimage.dev/] CodeImage
+, [LINK:https://showcode.app/] ShowCode
+, [LINK:https://code.html.zone/] Beauty Codes
+ or [LINK:https://chalk.ist/] Chalk
+ - Code Screenshot Tools
+ [LINK:https://meld.app/] Meld
+ / [LINK:https://meldmerge.org/] 2
+ or [LINK:https://winmerge.org/] WinMerge
+ - File / Directory Comparison Tools
+ [LINK:https://about.0xacab.org/] 0xacab
+ - Code Host
+ [LINK:https://rtutor.ai/] RTutor
+ - Translate Natural Language to R code / No Sign-Up
+ [LINK:https://brickhub.dev/] BrickHub
+ - Share Code Brick Templates
+ [LINK:https://sourcegraph.com/search] Sourcegraph
+ or [LINK:https://github.com/kantord/SeaGOAT] SeaGOAT
+ - Code Searching
+ [LINK:https://www.sourcecodester.com/] Sourcecodester
+, [LINK:https://code-projects.org/] Code Projects
+, [LINK:https://codeastro.com/] Codastro
+, [LINK:https://www.kashipara.com/] Kashipara
+ or [LINK:https://www.itsourcecode.com/] ItSourceCode
+ - Source Code Projects
+ [LINK:https://shortcode.dev/] ShortCode
+ or [LINK:https://codelist.cc/v3/] CodeList
+ - Script / Code Indexes
+ [LINK:https://www.animate-code.com/] AnimateCode
+ - Create Code Animations
+ [LINK:https://www.delphitools.info/] DelphiTools
+ - Code Profiler / Delphi
+ [LINK:https://www.zathura.dev/] ⁠Zathura
+ - GUI Debugger for Assembly
+ [LINK:https://useadrenaline.com/] Adrenaline
+ or [LINK:https://console-ninja.com/] Console Ninja
+ - Code Debugging
+ [LINK:https://jsbin.com/] JBin
+ or [LINK:https://www.replay.io/] Replay
+ - Collaborative Code Debugging
+ [LINK:https://github.com/schneefux/vscode-winddown] Winddown
+ or [LINK:https://alexanderepstein.github.io/Sandman/] Sandman
+ - Coding Break Reminders
+ [LINK:https://www.decompiler.com/] Decompiler
+ - Online Decompiler
+Vim / Neovim Tools [LINK:#vim-neovim-tools] ​
+ [LINK:https://github.com/rockerBOO/awesome-neovim] Awesome Neovim
+ or [LINK:https://neovimcraft.com/] NeoVimCraft
+ - NeoVim Plugins Collections
+ [LINK:https://vim-bootstrap.com/] Vim Bootstrap
+ - Bootstrap Config for Vim
+ [LINK:https://github.com/nvim-lua/kickstart.nvim] NeoVim Kickstart
+, [LINK:https://astronvim.com] AstroNvim
+, [LINK:https://github.com/LazyVim/LazyVim] LazyVim
+ or [LINK:https://nvchad.com/] NvChad
+ - Neovim Configs
+ [LINK:https://dotfyle.com/] DotFyle
+ - Neovim Config Search
+ [LINK:https://github.com/folke/lazy.nvim] Lazy.nvim
+ or [LINK:https://github.com/wbthomason/packer.nvim] packer.nvim
+ - Neovim Plugin Managers
+ [LINK:https://github.com/glacambre/firenvim] FireNVim
+ - Neovim in Browser
+ [LINK:https://neovide.dev] neovide
+, [LINK:https://github.com/vhakulinen/gnvim] gnvim
+, [LINK:https://github.com/neovim/neovim/wiki/Related-projects##gui] Neovim wiki (GUIs)
+ - Neovim GUIs
+ [LINK:https://github.com/jbyuki/instant.nvim] instant.nvim
+ - Collaborative Neovim Editing
+ [LINK:https://github.com/junegunn/vim-plug] Vim Plug
+ or [LINK:https://www.vim.org/scripts/script.php?script_id=2332] vim-pathogen
+ / [LINK:https://github.com/tpope/vim-pathogen] 
+ - Vim Plugin Managers
+ [LINK:https://vimawesome.com/] VimAwesome
+ - Vim Plugins
+ [LINK:https://github.com/stevearc/oil.nvim] oil.nvim
+ or [LINK:https://github.com/nvim-tree/nvim-tree.lua] nvim-tree
+ - Vim Tree Explorer
+ [LINK:https://vimcolorschemes.com/] VimColorSchemes
+ - Vim Color Schemes
+ [LINK:https://github.com/amix/vimrc] The Ultimate vimrc
+ - Vim Config
+ [LINK:https://github.com/preservim/vim-markdown] Vim Markdown
+ or [LINK:https://github.com/iamcco/markdown-preview.nvim] Markdown Preview
+ - Vim Markdown Plugins
+VSCode Tools [LINK:#vscode-tools] ​
+ [LINK:https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/] Awesome VSC Extensions
+, [LINK:https://marketplace.visualstudio.com/] VS Studio Marketplace
+ or [LINK:https://www.vsixhub.com/] vsixhub
+ [LINK:https://rentry.co/vscodiumguide] VSCodium Guide
+ - Install Microsoft Marketplace Extensions
+ [LINK:https://code.visualstudio.com/docs/setup/vscode-web] VSCode Web
+ - VSCode Web Version / Guide
+ [LINK:https://github.com/vscode-neovim/vscode-neovim] ⁠VSCode Neovim
+ - Vim Mode for VSCode
+ [LINK:https://github.com/dderevjanik/github-vscode-icons] github-vscode-icons
+ - VSCode Icons
+ [LINK:https://open-vsx.org/] Open VSX
+ - Open VSX Registry
+ [LINK:https://snippet-generator.app/] snippet-generator
+ - Snippet Generator
+ [LINK:https://www.dendron.so/] Dendron
+ - Knowledge Management
+ [LINK:https://github.com/antfu/vscode-smart-clicks] vscode-smart-clicks
+ - Smart Clicks
+ [LINK:https://coder.com/] code-server
+ - Web Server / [LINK:https://github.com/coder/code-server] 
+ [LINK:https://github.com/antfu/vscode-settings] vscode-settings
+ - VSCode Settings
+ [LINK:https://insiders.vscode.dev/] insiders.vscode
+ - Insider Build
+ [LINK:https://vscodethemes.com/] VSCodeThemes
+ or [LINK:https://www.vscolors.com/] VSColors
+ - VSCode Themes
+ [LINK:https://oslo-vsc.netlify.app/] oslo
+ - Theme Generator
+AI Tools 
+ [LINK:#ai-tools] ​
+Coding Harnesses / Extensions [LINK:#coding-harnesses-extensions] ​
+TIP
+Keep in mind many coding AIs run in root, so it's best to avoid giving them full drive / root access to avoid any sort of issues or accidental deletions as they can modify files and execute terminal commands. Remember to backup code first before running the AI or prompts, as they can sometimes break things. Running in a container or VM is recommended.
+️ 
+ [LINK:/ai/#ai-agents] AI Agents
+ [LINK:https://opencode.ai/] OpenCode
+ - Coding AI / Muse Spark 1.3 / MiMo-2.5 / [LINK:https://github.com/awesome-opencode/awesome-opencode] Resources
+ / [LINK:https://opencode-studio.micr.dev/] Config Manager
+ / [LINK:https://discord.com/invite/opencode] 
+ / [LINK:https://github.com/anomalyco/opencode] 
+ [LINK:https://aider.chat/] Aider
+ - Terminal Coding Agent / [LINK:https://discord.com/invite/Y7X7bhMQFV] 
+ / [LINK:https://github.com/Aider-AI/aider] 
+ [LINK:https://cline.bot/] Cline
+ / [LINK:https://discord.gg/cline] 
+ / [LINK:https://github.com/cline/cline] 
+ or [LINK:https://github.com/Zoo-Code-Org/Zoo-Code/] ⁠Zoo Code
+ / [LINK:https://www.reddit.com/r/ZooCode/] 
+ - Autonomous VS Code Agents
+ [LINK:https://www.openhands.dev/] OpenHands
+ - Coding AI / [LINK:https://github.com/All-Hands-AI/OpenHands] 
+ [LINK:https://rentry.co/FMHYB64#cursor] Cursor
+ - Coding AI
+ [LINK:https://gitwit.dev/] GitWit
+ - Coding AI
+ [LINK:https://github.com/deepseek-ai/deepseek-harness] ⁠DeepSeek Harness
+ - Coding AI
+ [LINK:https://antigravity.google/] ⁠Google Antigravity
+ - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [LINK:https://gist.github.com/tejainece/85408c51ff5e3555ebc4b5b4417a9b6b] VSCode Marketplace
+ / [LINK:https://github.com/sickn33/antigravity-awesome-skills] Add Skills
+ / [LINK:https://open-vsx.org/extension/crsx/ag-usage] Usage Tracker
+ [LINK:https://ai-sdk.dev/] AI SDK
+ - Coding AI / [LINK:https://github.com/vercel/ai] 
+ [LINK:https://github.com/OpenInterpreter/open-interpreter] Open Interpreter
+ - Local Code Interpreter / No Sign-Up / [LINK:https://discord.gg/Hvz9Axh84z] 
+ [LINK:https://codeweb.chat/] Code Web Chat
+ - Coding AI / No Sign-Up / [LINK:https://discord.com/invite/KJySXsrSX5] 
+ / [LINK:https://www.reddit.com/r/codewebchat/] 
+ / [LINK:https://github.com/robertpiosik/CodeWebChat] 
+ [LINK:https://supermaven.com/] Supermaven
+ - Tab Completion Coding AI / No Sign-Up / [LINK:https://discord.com/invite/QQpqBmQH3w] 
+ [LINK:https://www.qodo.ai/] Qodo
+ - Coding AI
+ [LINK:https://openchamber.dev/] OpenChamber
+ - Coding AI / [LINK:https://github.com/openchamber/openchamber] 
+ [LINK:https://zcode.z.ai/] ⁠ZCode
+ - Coding AI / [LINK:https://github.com/zai-org/ZCode] 
+ [LINK:https://ampcode.com/] Ampcode
+ - Coding AI
+ [LINK:https://freebuff.com/] ⁠FreeBuff
+ - Coding Agent / Cloud Sandbox / MiMo 2.5
+ [LINK:https://jcode.sh/] ⁠jcode
+ - Terminal Coding Agent
+ [LINK:https://pi.dev/] ⁠Pi
+ - Terminal Coding Agent / [LINK:https://github.com/earendil-works/pi] 
+ [LINK:https://omp.sh/] omp
+ - Terminal Coding Agent / [LINK:https://github.com/can1357/oh-my-pi] 
+ [LINK:https://cmux.com/] ⁠cmux
+ - Terminal Coding Agent / Emulator / 
+ / [LINK:https://github.com/manaflow-ai/cmux] 
+ [LINK:https://docs.poolside.ai/api/overview] ⁠Poolside AI
+ - Coding AI API
+ [LINK:https://getdesign.md/] getdesign.md
+ - AI-Ready Design Systems
+AI Web Coding [LINK:#ai-web-coding] ​
+TIP
+Note that most [LINK:/ai/#official-model-sites] General LLMs
+ are also capable of coding.
+ [LINK:https://arena.ai/code] Arena
+ - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / [LINK:https://x.com/arena] 
+ / [LINK:https://discord.com/invite/lmarena] 
+ [LINK:https://www.designarena.ai/] Design Arena
+ - Multiple Coding AI / No Direct Mode / Reset Limits / w Temp Mail / [LINK:https://discord.com/invite/Bw9Ajcb3pR] 
+ [LINK:https://chat.z.ai/] ⁠Z.ai
+ - GLM-5.2 (Deep Think Max) / GLM-5 Turbo / Coding AI / Sign-Up / [LINK:https://discord.gg/QR7SARHRxK] 
+ [LINK:https://www.kimi.ai/agent] Kimi
+, [LINK:https://www.kimi.com/agent] 2
+ - Kimi K3 (Max) / Kimi K2.6 / Coding AI / Google Login or Phone # Required / [LINK:https://www.reddit.com/r/kimi/] 
+ / [LINK:https://discord.gg/TYU2fdJykW] 
+ / [LINK:https://github.com/MoonshotAI] 
+ [LINK:https://aistudio.google.com/app/apps] Google AI Studio
+ - Gemini 3.8 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / Coding AI / [LINK:https://www.reddit.com/r/Bard/] 
+ / [LINK:https://discord.com/invite/gemini] 
+ [LINK:https://chat.qwen.ai/] Qwen
+ - Qwen 3.8 Max (Thinking) / Qwen 3.7 Plus / Coding AI / Sign-Up / Unlimited / [LINK:https://www.reddit.com/r/Qwen_AI/] 
+ / [LINK:https://discord.com/invite/CV4E9rpNSD] 
+ / [LINK:https://github.com/QwenLM] 
+ [LINK:https://agent.minimax.io/] MiniMax AI
+ - MiniMax M3 (Thinking) / Coding AI / Sign-Up [LINK:https://github.com/MiniMax-AI/] 
+ [LINK:https://github.com/siteboon/claudecodeui] ⁠Cloud CLI
+ - AI Coding Agent Web Manager
+ [LINK:https://perchance.org/minimal#edit] Perchance
+ / [LINK:https://www.reddit.com/r/perchance/] 
+ / [LINK:https://discord.gg/43qAQEVV9a] 
+, [LINK:https://fragments.e2b.dev/] Fragments
+ / [LINK:https://discord.com/invite/U7KEcGErtQ] 
+ / [LINK:https://github.com/e2b-dev] 
+, [LINK:https://websim.com/] Websim
+ / [LINK:https://discord.gg/websim] 
+ / [LINK:https://www.reddit.com/r/websim] 
+ / [LINK:https://x.com/websim_ai] 
+, [LINK:https://huggingface.co/spaces/akhaliq/anycoder] ⁠AnyCoder
+, or [LINK:https://llamacoder.together.ai/] Llama Coder
+ / [LINK:https://github.com/Nutlope/llamacoder] 
+ - App Builders
+ [LINK:https://v0.app/] v0
+ - Text to Site Code
+ [LINK:https://bolt.new/] Bolt.new
+ - AI Web App Builder / [LINK:https://discord.com/invite/stackblitz] 
+ / [LINK:https://github.com/stackblitz/bolt.new] 
+Developer Utilities [LINK:#developer-utilities] ​
+ [LINK:https://github.com/ai-for-developers/awesome-ai-coding-tools] ⁠Awesome AI Coding Tools
+ - Index of AI Dev Tools
+ [LINK:https://skills.sh/] Skills
+ or 
+ [LINK:https://rentry.co/an-eye] ⁠an-eye
+ - AI Agent Skill Indexes
+ [LINK:https://www.coderabbit.ai/] ⁠CodeRabbit
+ / 
+ or [LINK:https://github.com/qodo-ai/pr-agent] PR-Agent
+ - Pull Request Reviews / Feedback
+ [LINK:https://github.com/Green-PT/honey-for-devs] Honey
+ or [LINK:https://ponytail.dev/] ⁠Ponytail
+ - Make AI Coding Agents More Efficient / Save Tokens / [LINK:https://github.com/DietrichGebert/ponytail] 
+ [LINK:https://github.com/decolua/9router] ⁠9Router
+ - Local AI Model Proxy & Token Saver
+ [LINK:https://ccswitch.io/en/] CC Switch
+ - AI Coding Agent Manager / [LINK:https://github.com/farion1231/cc-switch] 
+ [LINK:https://impeccable.style/] ⁠Impeccable
+ / [LINK:https://github.com/pbakaus/impeccable] 
+ or [LINK:https://www.tasteskill.dev/] ⁠Taste Skill
+ / [LINK:https://github.com/Leonxlnx/taste-skill] 
+ - Design Languages for AI Coding Agents
+ [LINK:https://github.com/virgiliojr94/book-to-skill] ⁠book-to-skill
+ - Convert Technical Books / Documents to Agent Skills
+ [LINK:https://github.com/miqdadbadjuber/anti-slop] ⁠Anti Slop
+ - Prevent Coding Agents Generating Generic Code (aka slop)
+ [LINK:https://onorca.dev/] Orca
+ - Agentic Development Environment / Parallel Agents / [LINK:https://github.com/stablyai/orca] 
+ [LINK:https://langfuse.com/] Langfuse
+ - LLM Engineering & Debugging Platform / [LINK:https://github.com/langfuse/langfuse] 
+ [LINK:https://github.com/tt-a1i/archify] ⁠Archify
+ - Turn Codebases into Diagrams
+ [LINK:https://ccusage.com/] ⁠Ccusage
+ - Track Token Usage for AI Coding / [LINK:https://github.com/ryoppippi/ccusage] 
+ [LINK:https://github.com/mufeedvh/code2prompt] ⁠Code2prompt
+ - Codebase To LLM Prompt
+ [LINK:https://www.querit.ai/] Querit
+ - AI Web Search API / [LINK:https://pypi.org/project/querit-cli/] CLI
+ / [LINK:https://github.com/querit-ai/querit-mcp] MCP Server
+ / [LINK:https://discord.com/invite/4xXsFA8Ed2] 
+ / [LINK:https://github.com/querit-ai] 
+ [LINK:https://gitingest.com/] Gitingest
+ or [LINK:https://repomix.com/] Repomix
+ / [LINK:https://github.com/yamadashy/repomix] 
+ - GitHub Repo To Prompt Text
+ [LINK:https://pieces.app/] Pieces
+ - Multi-LLM Coding Search Engine
+ [LINK:https://github.com/heygen-com/hyperframes] ⁠HyperFrames
+ - Code-Based AI Video Generation Framework
+Machine Learning [LINK:#machine-learning] ​
+ [LINK:https://github.com/josephmisiti/awesome-machine-learning] Awesome Machine Learning
+ - Machine Learning Framework Index
+ [LINK:https://github.com/underlines/awesome-ml] Awesome ML
+, [LINK:https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/] ⁠Awesome LLM Resources
+ or [LINK:https://ml-resources.vercel.app/] ML Resources
+ - Machine Learning / LLM Resources
+️ 
+ [LINK:/educational/#ai-ml-learning] AI / ML Learning
+ - Educational AI / ML Resources
+ [LINK:https://huggingface.co/] Hugging Face
+, [LINK:https://www.modelscope.ai/] ModelScope
+, [LINK:https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5] LLM Papers
+ or [LINK:https://www.openml.org/] OpenML
+ - Machine Learning Datasets / Papers
+ [LINK:https://playground.tensorflow.org/] Deep playground
+ - Neural Networks Playground
+ [LINK:https://unsloth.ai/] ⁠Unsloth
+ - LLM Finetuning / Text Completion / [LINK:https://github.com/unslothai/notebooks] Notebooks
+ / [LINK:https://unsloth.ai/docs/get-started/fine-tuning-llms-guide] Guide
+ / [LINK:https://github.com/unslothai/unsloth] 
+ [LINK:https://modelscope.ai/civision/model-training] ModelScope Finetuning
+ - Image Gen Model Finetuning / Up to 100 Images Per LoRA
+ [LINK:https://github.com/Dicklesworthstone/markdown_web_browser] Markdown Web Browser
+ - Webpage > Markdown Converter
+ [LINK:https://www.deepspeed.ai/] DeepSpeed
+ - Deep Learning Optimization Library
+ [LINK:https://github.com/lutzroeder/netron] Netron
+ - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
+ [LINK:https://mmdeploy.readthedocs.io/en/latest/] MMDeploy
+ - Deep Learning Model Deployment Toolset / [LINK:https://github.com/open-mmlab/mmdeploy] 
+ [LINK:https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web] ChatGPT-Next-Web
+ - Cross-Platform ChatGPT / Gemini UI
+ [LINK:https://nixified.ai/] Nixified
+ - Nix Flake for AI Projects
+Programming Languages 
+ [LINK:#programming-languages] ​
+ [LINK:https://awexplor.github.io/] ⁠Awesome Explorer
+ - Dev Awesome List Frontend / [LINK:https://github.com/AweXplor/awexplor.github.io] 
+ [LINK:https://lecoupa.github.io/awesome-cheatsheets/] Awesome Cheatsheets
+, 
+ [LINK:https://quickref.me/] QuickRef.me
+, [LINK:https://github.com/gleitz/howdoi] HowDoI
+, [LINK:https://overapi.com/] OverApi
+, [LINK:https://cheatsheets.zip/] Reference
+ / [LINK:https://github.com/Fechin/reference] 
+ or [LINK:https://www.cheat-sheets.org/] Cheat Sheets
+ - Programming Cheat Sheets
+ [LINK:https://codigolangs.com/] Codigo
+ - Programming Language Repository
+ [LINK:https://awesome-go.com/] Awesome Go
+ or [LINK:https://github.com/nikolaydubina/go-recipes] Go Recipes
+ - Go Resources
+ [LINK:https://the-algorithms.com/] TheAlgorithms
+ - Coding Algorithms / [LINK:https://github.com/TheAlgorithms/] 
+️ 
+ [LINK:/educational/#programming-languages] Learn Programming
+ [LINK:https://benchmarksgame-team.pages.debian.net/benchmarksgame/] Benchmarks Game
+ - Measure PL Speeds
+ [LINK:https://programming-language-benchmarks.vercel.app/] Language Benchmarks
+ - Benchmarks for PLs & Compilers
+ [LINK:https://www.30secondsofcode.org/] 30 Seconds of Code
+ or [LINK:https://freefrontend.com/] FreeFrontend
+ - Find Code Snippets
+ [LINK:https://generatedata.com/] generatedata.com
+ - Generate Test Data in Different Languages
+ [LINK:https://tio.run/] Try It Online
+ - Programming Language Interpreters
+ [LINK:https://github.com/go-nunu/nunu] nunu
+ - Build Go Programs
+ [LINK:https://learnxinyminutes.com/] Learn X in Y minutes
+ - Programming Language Rundowns / [LINK:https://github.com/adambard/learnxinyminutes-docs] 
+ [LINK:https://ide.onelang.io/] OneLang
+ - Convert Code to Multiple Languages
+ [LINK:https://github.com/elbywan/crystalline] Crystalline
+ - Crystal Language Server
+ [LINK:https://jrvidal.github.io/explaine.rs/] explaine.rs
+ - Rust Syntax Explanations
+ [LINK:https://github.com/verus-lang/verus] ⁠Verus
+ - Rust Code Verification Tool
+Python [LINK:#python] ​
+ [LINK:https://automatetheboringstuff.com/] Automate The Boring Stuff
+ - Python Automation Book
+ [LINK:https://gto76.github.io/python-cheatsheet/] Python Cheatsheet
+ or [LINK:https://speedsheet.io/] SpeedSheet
+ - Python Cheat Sheets
+ [LINK:https://python-patterns.guide/] Python Patterns
+ - Python Design Patterns
+ [LINK:https://github.com/zedr/clean-code-python] Clean Code Python
+ - Clean Up Python Code
+ [LINK:https://rustpython.github.io/] RustPython
+ - Python Interpreter
+ [LINK:https://github.com/astral-sh/uv] uv
+ - Python Package / Project Manager
+ [LINK:https://thonny.org/] Thonny
+ - Python IDE
+ [LINK:https://play.google.com/store/apps/details?id=ru.iiec.pydroid3] Pydroid 3
+ - Android Python IDE + Learning
+ [LINK:https://github.com/astral-sh/ty] ty
+ - Static Code Analyzer
+ [LINK:https://www.onlinegdb.com/online_python_compiler] Online Python Compiler
+ - Online Python Editor & Tester
+C Languages [LINK:#c-languages] ​
+ [LINK:https://github.com/fffaraz/awesome-cpp] Awesome C++
+ - C++ Resources
+ [LINK:https://roslynpad.net/] RoslynPad
+ - C# Editor
+ [LINK:https://roslynquoter.azurewebsites.net/] RoslynQuoter
+ - C# Syntax Tree API Viewer
+ [LINK:https://thealgorithms.github.io/C-Plus-Plus] The Algorithms - C++
+ - C++ Algorithms
+ [LINK:https://cppinsights.io/] ⁠C++ Insights
+ or [LINK:https://cpp.sh/] cpp.sh
+ - Online C++ Compiler / Explorers
+ [LINK:https://compcert.org/] ⁠CompCert
+ - Formally-Verified C Compiler / [LINK:https://github.com/AbsInt/CompCert] 
+ [LINK:https://cp-algorithms.com/] CP-Algorithms
+ - C++ Algorithms
+ [LINK:https://en.cppreference.com/w/] cppreference
+ - C++ Cheat Sheets
+Java / Kotlin [LINK:#java-kotlin] ​
+ [LINK:https://github.com/akullpp/awesome-java] Awesome Java
+ - Java Resources
+ [LINK:https://kotlin.link/] Awesome Kotlin
+ - Kotlin Resources / [LINK:https://github.com/Heapy/awesome-kotlin] 
+ [LINK:https://github.com/3000IQPlay/obfuscator-list] Obfuscator List
+ - Java Obfuscator Index
+ [LINK:https://adoptium.net/] Adoptium
+ - Download OpenJDK Binaries
+ [LINK:https://www.coley.software/Recaf/] Recaf
+ - Java Bytecode Editor / [LINK:https://github.com/Col-E/Recaf-Launcher/] GUI
+ [LINK:https://bytecodeviewer.com] bytecode-viewer
+, [LINK:https://github.com/java-decompiler/jd-gui] jd-gui
+, [LINK:https://github.com/Storyyeller/Krakatau] Krakatau
+, [LINK:https://github.com/deathmarine/Luyten] Luyten
+, [LINK:https://github.com/Vineflower/vineflower] Vineflower
+, [LINK:https://www.javadecompilers.com/] JavaDecompiler
+ or [LINK:https://github.com/fesh0r/fernflower] Fernflower
+ - Java Decompilers
+ [LINK:https://github.com/FelixSelter/JEnv-for-Windows] JEnv For Windows
+ - Change Java Version
+ [LINK:https://whichjdk.com/] ⁠WhichJDK
+ - JDK Version Cheatsheet / Info
+ [LINK:https://github.com/skylot/jadx] jadx
+ - Dex to Java Decompiler
+ [LINK:https://www.graalvm.org/] GraalVM
+ - Advanced Multi-language JVM
+Web Development 
+ [LINK:#web-development] ​
+HTML [LINK:#html] ​
+ [LINK:https://htmlreference.io/] HTML Reference
+ - HTML Cheat Sheet
+ [LINK:https://github.com/j9t/html-minifier-next] HTML-Minifier
+ - HTML Minifier
+ [LINK:https://htmlrev.com/] HTMLRev
+ - Free HTML Templates
+ [LINK:https://markdowntohtml.com/] Markdown to HTML
+ - Markdown to HTML Converter
+ [LINK:https://artplayer.org/] ArtPlayer.js
+ / [LINK:https://github.com/zhw2590582/ArtPlayer] 
+, [LINK:https://aplayer.js.org/] APlayer
+, [LINK:https://dplayer.diygod.dev/] DPlayer
+ or [LINK:https://h5player.bytedance.com/en/] xgplayer
+ - HTML5 Video Players
+CSS [LINK:#css] ​
+ [LINK:https://github.com/awesome-css-group/awesome-css] Awesome CSS
+ - CSS Resources
+ [LINK:https://github.com/troxler/awesome-css-frameworks] Awesome CSS Frameworks
+ - CSS Frameworks Index
+ [LINK:https://github.com/dbohdan/classless-css] Classless CSS
+ - Classless CSS Themes & Frameworks
+ [LINK:https://github.com/aniftyco/awesome-tailwindcss] Awesome TailwindCSS
+ - Tailwind CSS Resources
+️ 
+ [LINK:/storage/#css-framework-tools] CSS Framework Tools
+ [LINK:https://github.com/you-dont-need/You-Dont-Need-JavaScript] You Don't Need JavaScript
+ - CSS Demos
+ [LINK:https://tailwindcss.com/] Tailwind CSS
+, [LINK:https://panda-css.com/] ⁠Panda CSS
+ / [LINK:https://github.com/chakra-ui/panda] 
+ or [LINK:https://unocss.dev/] UnoCSS
+ - CSS Frameworks
+ [LINK:https://docs.emmet.io/cheat-sheet/] CSS Cheat Sheet
+ or [LINK:https://css-tricks.com/snippets/] CSS Tricks
+ - CSS Cheat Sheets
+ [LINK:https://whatunit.com/] ⁠WhatUnit
+ - CSS Length Unit Chart
+ [LINK:https://easings.net/] Easings
+ - CSS Animation Cheat Sheet
+ [LINK:https://layout.bradwoods.io/] CSS Layout Generator
+ - CSS Layout / Grid Generators
+ [LINK:https://csspeeper.com/] CSSPeeper
+ - Smart CSS Viewer
+ [LINK:https://www.projectwallace.com/] Project Wallace
+ - CSS Analyzer
+ [LINK:https://github.com/AllThingsSmitty/css-protips] CSS Protips
+, [LINK:https://moderncss.dev/] Modern CSS
+ or [LINK:https://cssreference.io/] CSS Reference
+ - CSS Guides
+ [LINK:https://stylestage.dev/] Style Stage
+ - Modern CSS Styles
+ [LINK:https://www.pixelartcss.com/] PixelArtCSS
+ - Pixel Art to CSS
+ [LINK:https://css-doodle.com/] CSS Doodle
+ - CSS Pattern Generator
+ [LINK:https://codioful.com/] Codioful
+, [LINK:https://webgradients.com/] WebGradients
+ / [LINK:https://github.com/itmeo/webgradients] 
+, [LINK:https://www.gradientmagic.com/] GradientMagic
+ or [LINK:https://heropatterns.com/] heropatterns
+ - CSS Patterns / Gradients
+ [LINK:https://ilyashubin.github.io/FilterBlend/] FilterBlend
+ - CSS Blend Modes
+ [LINK:https://animista.net/] Animista
+ - CSS Animations
+ [LINK:https://windytoolbox.com/] Tailwind Toolbox
+ - Tailwind Starter Templates & Components
+ [LINK:https://daisyui.com/] daisyUI
+, [LINK:https://floatui.com/] Float UI
+ / [LINK:https://github.com/MarsX-dev/floatui] 
+ or [LINK:https://ui.aceternity.com/] Aceternity UI
+ - Tailwind CSS Components
+JavaScript [LINK:#javascript] ​
+ [LINK:https://github.com/sorrycc/awesome-javascript] Awesome JavaScript
+ - JavaScript Resources
+️ 
+ [LINK:/storage/#typescript-tools] TypeScript Tools
+ [LINK:https://component-party.dev/] Component Party
+ - Web Component JS Frameworks Overview / [LINK:https://github.com/matschik/component-party.dev] 
+ [LINK:https://bun.com/] ⁠Bun
+ - JavaScript Runtime, Bundler, Testing, and Package Manager / [LINK:https://github.com/oven-sh/bun] 
+ [LINK:https://webcrack.netlify.app/] WebCrack
+, [LINK:https://avotoko.github.io/javascript-deobfuscator/] jsdfe
+ or [LINK:https://willnode.github.io/deobfuscator/] Deobfuscator
+, [LINK:https://deobfuscate.relative.im/] Deobfuscate
+ - JavaScript Deobfuscators
+ [LINK:https://jscompressor.treblereel.dev/] JS Compressor
+ - JavaScript Minifiers
+ [LINK:https://surma.github.io/underdash/] Underdash
+ - JavaScript Snippets
+ [LINK:https://github.com/goldbergyoni/nodebestpractices] Node.js Best Practices
+ - Node.js Style Guide
+ [LINK:https://github.com/airbnb/javascript] Airbnb JavaScript Style Guide
+ or [LINK:https://standardjs.com/] StandardJS
+ - JavaScript Style Guides
+ [LINK:https://discordjs.guide/] Discord.js Guide
+ - Discord.js Guide
+React [LINK:#react] ​
+ [LINK:https://platejs.org/] Plate
+ - React Code Editors
+ [LINK:https://rsuitejs.com/] React Suite
+ / [LINK:https://github.com/rsuite/rsuite] 
+, [LINK:https://reactbits.dev/] React Bits
+ / [LINK:https://github.com/DavidHDev/react-bits] 
+, [LINK:https://21st.dev/] 21st
+ / [LINK:https://github.com/serafimcloud/21st] 
+ or [LINK:https://www.radix-ui.com/] Radix UI
+ / [LINK:https://github.com/radix-ui] 
+ - React Components
+ [LINK:https://mantine.dev/] Mantine
+ - Components and Templates / [LINK:https://github.com/mantinedev/mantine] 
+ [LINK:https://github.com/alan2207/bulletproof-react] Bulletproof React
+ - React App Architecture
+ [LINK:https://refine.dev/] Refine
+ - React App Builders
+ [LINK:https://puckeditor.com/] Puck
+ - Create Simplified Visual Editors for Non-Devs / [LINK:https://github.com/puckeditor/puck/] 
+ [LINK:https://www.remotion.dev/] Remotion
+ - React Video Editor
+ [LINK:https://react-svgr.com/playground/] React SVG
+ or [LINK:https://svg2jsx.com/] SVG2JSX
+ - Convert SVG to React Components
+ [LINK:https://million.dev] Million
+ - React Replacement
+ [LINK:https://novu.co/] novu
+ - Real-Time React Notifications / [LINK:https://github.com/novuhq/novu] 
+ [LINK:https://usehooks.com/] UseHooks
+ - React Hooks
+ [LINK:https://tanstack.com/query/latest] React Query
+ - Fetch, Cache and Update React Data / [LINK:https://github.com/TanStack/query] 
+ [LINK:https://github.com/mrousavy/react-native-mmkv] MMKV
+ - React Key / Value Storage
+ [LINK:https://visioncamera.margelo.com/] Vision Camera
+ - React Camera Support / [LINK:https://github.com/mrousavy/react-native-vision-camera] 
+ [LINK:https://react-pdf.org/] React PDF
+ - Create PDFs in React
+PHP [LINK:#php] ​
+ [LINK:https://github.com/ziadoz/awesome-php] Awesome PHP
+ - PHP Resources
+ [LINK:https://herd.laravel.com/windows] ⁠Laravel Herd
+ - PHP Dev Environment
+ [LINK:https://3v4l.org] 3v4l
+ - PHP Shell / 
+ [LINK:https://phpstan.org] PHPStan
+ - PHP Debugger / 
+ / [LINK:https://github.com/phpstan/phpstan] 
+ [LINK:https://getcomposer.org/] ⁠Composer
+ - PHP Dependency Manager / [LINK:https://github.com/composer/composer] 
+ [LINK:https://spatie.be/open-source] Spatie
+ - Run PHP Concurrently / [LINK:https://github.com/spatie/fork] 
+Web Dev Tools 
+ [LINK:#web-dev-tools] ​
+ [LINK:https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49] 32 Bit Cafe
+ - Web Dev Resources
+ [LINK:https://github.com/anderspitman/awesome-tunneling] Awesome Tunneling
+ - Tunneling Resources
+️ 
+ [LINK:/storage/#app-site-mockups] Site Mockups
+️ 
+ [LINK:/internet-tools/#archiving] Archive / Scrape / Crawl Web Pages
+️ 
+ [LINK:/image-tools/#offline-galleries] Selfhosted Image Galleries
+ [LINK:https://goaccess.io/] GoAccess
+ - Web Log Analyzer / [LINK:https://github.com/allinurl/goaccess] 
+ [LINK:https://formulaer.com/] Formulaer
+, 
+ [LINK:https://tally.so/] Tally
+, [LINK:https://github.com/formbricks/formbricks] FormBricks
+ or [LINK:https://deformity.ai/] Deformity
+ - Form Builders
+ [LINK:https://playwright.dev/] Playwright
+, [LINK:https://www.selenium.dev/] Selenium
+ or [LINK:https://github.com/huginn/huginn] Huginn
+ - Browser Automation
+ [LINK:https://www.goautoma.com/extension/] Automa
+ or [LINK:https://browserflow.app/] Browserflow
+ - Browser Automation Extensions
+ [LINK:https://cron-job.org/] ⁠cron-job
+ - Web-Based Cron Job / Automation Scheduler
+ [LINK:https://flounder.online/] Flounder
+ - Website Building Discussion
+ [LINK:https://networkingtoolbox.net/] ⁠Networking Toolbox
+, [LINK:https://www.browserling.com/tools/] Browserling Tools
+ or [LINK:https://webcode.tools/] WebCode
+ - Site Development Tools
+ [LINK:https://www.ogimage.website/] ⁠OG Image Generator
+ or [LINK:https://github.com/OP-Engineering/link-preview-js] Link Preview JS
+ - Create Link Previews / Graph Images
+ [LINK:https://tech-playground.com/] ⁠Tech Playground
+ - Playground for Server-Side Tech
+ [LINK:https://www.wappalyzer.com/] Wappalyzer
+ - Identify Technologies on Websites / [LINK:https://www.wappalyzer.com/apps/] Addons
+ [LINK:https://ui.shadcn.com/] shadcn-ui
+ or [LINK:https://shadcn-svelte.com] shadcn-svelte
+ - Web Component Libraries / [LINK:https://github.com/ln-dev7/square-ui] Examples
+ [LINK:https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm] Web Developer
+ - Web Developer Toolbar Extension
+ [LINK:https://www.goatcounter.com/] GoatCounter
+, [LINK:https://www.cloudflare.com/web-analytics/] Cloudflare Web Analytics
+, [LINK:https://github.com/rybbit-io/rybbit] Rybbit
+, [LINK:https://clarity.microsoft.com/] MS Clarity
+ or [LINK:https://umami.is/] Umami
+ - Site Analytics
+ [LINK:https://www.elastic.co/elasticsearch] ElasticSearch
+ - Search & Analytics Engine / [LINK:https://github.com/elastic/elasticsearch] 
+ [LINK:https://tabler.io/] Tabler
+ - Site Admin Dashboard
+ [LINK:https://octopus.do/sitemap] Octopus
+ - Site Planning Tool
+ [LINK:https://giscus.app/] Giscus
+ or [LINK:https://www.remarkbox.com/] Remarkbox
+ - Site Comment Systems
+ [LINK:https://wordpress.org/] Wordpress
+ / [LINK:/developer-tools/#wordpress-tools] Tools
+ or [LINK:https://www.joomla.org/] Joomla
+ / [LINK:https://github.com/joomla/joomla-cms] 
+ - Content Management Systems / CMS
+ [LINK:https://specification.website/] The Website Specification
+ / [LINK:https://github.com/jdevalk/specification.website] 
+ - Website Design Checklist
+ [LINK:https://github.com/dagu-org/dagu] Dagu
+ - WebUI Job Manager
+ [LINK:https://github.com/ducaale/xh] xh
+ - HTTP Clients / Transfer Data with URLs / [LINK:https://ifconfig.me/] IP Lookup
+ / [LINK:https://catonmat.net/cookbooks/curl] Recipes
+ [LINK:https://github.com/http-party/http-server] http-server
+ - No Config HTTP Server
+ [LINK:https://github.com/six-ddc/plow] Plow
+ - HTTP Benchmarking
+ [LINK:https://transform.tools/] Transform
+ - Polyglot Web Converter
+ [LINK:https://www.media-chrome.org/] Media Chrome
+ - Media Player Elements / [LINK:https://github.com/muxinc/media-chrome] 
+ [LINK:https://onelineplayer.com/] OneLinePlayer
+ - Vimeo / Dropbox Video Player
+ [LINK:https://motion.dev/] Motion
+ - Animation Library
+ [LINK:https://medusajs.com] Medusa
+ - Digital Commerce Development Tool
+ [LINK:https://caniuse.com/] Can I Use?
+ - Browser Support Tables
+ [LINK:https://pocketbase.io/] PocketBase
+ / [LINK:https://github.com/pocketbase/pocketbase] 
+ or [LINK:https://neon.com/] Neon
+ / [LINK:https://github.com/neondatabase/neon] 
+ - Open-Source Backend Platforms
+ [LINK:https://caddyserver.com/] Caddy
+ / [LINK:https://github.com/caddyserver/caddy] 
+ or [LINK:https://nginx.org/] Nginx
+ - Web Servers
+ [LINK:https://directorylister.com/] Directory Lister
+ - Web-Based Directory Listing
+ [LINK:https://sso.tax/] The SSO Wall of Shame
+ - Vendors without Built-in SSO
+ [LINK:https://testlocal.ly/] ⁠TestLocally
+ - Global Website Screenshot / Localization Testing
+ [LINK:https://www.caniemail.com/] Can I Email?
+ - Email Functionality Check
+ [LINK:https://typebot.com/] Typebot
+ - Embedded Chat App
+ [LINK:https://umap-project.org/] uMap
+ - Custom Embeddable Maps for Websites / [LINK:https://github.com/umap-project/umap/] 
+ [LINK:https://snazzymaps.com/] Google Map Themes
+ - Google Map Themes for Web Developers
+ [LINK:https://github.com/fatedier/frp] frp
+, [LINK:https://github.com/yusing/godoxy] GoDoxy
+ or [LINK:https://github.com/dotnet/yarp] YARP
+ - Reverse Proxies
+ [LINK:https://wsrv.nl/] wsrv.nl
+ - Image Caching / Delivery
+ [LINK:https://whatpwacando.today/] WhatPWACanDo
+ - PWA Examples
+ [LINK:https://www.pwabuilder.com/] PWABuilder
+ - Turn Site into Progressive Web App
+ [LINK:https://chaos-frontend-toolkit.web.app/] Chaos Frontend Toolkit
+ - Break Your Web Apps to Improve Them
+ [LINK:https://localhost.run/] LocalHost
+ - Connect Web Apps to Internet
+ [LINK:https://github.com/bensadeh/tailspin] tailspin
+ - Syntax Highlighter
+ [LINK:https://github.com/cloudflare/cloudflared] Cloudflared
+, [LINK:https://github.com/unjs/untun] ⁠untun
+ or [LINK:https://ngrok.com/] ngrok
+ - Introspectable Tunnel to Localhost Tools
+ [LINK:https://github.com/ekzhang/bore] Bore
+ - TCP Tunnel to Expose Servers Local Ports
+ [LINK:https://www.digitalocean.com/community/tools/nginx] NConfig
+ - Server Config
+ [LINK:https://github.com/trimstray/nginx-admins-handbook] Nginx-Admins-Handbook
+ - Improve NGINX Performance
+ [LINK:https://nullphpscript.com/] Null PHP Script
+ - Nulled Scripts
+Website Builders [LINK:#website-builders] ​
+ [LINK:https://myles.github.io/awesome-static-generators/] Awesome Static Generators
+ / [LINK:https://github.com/myles/awesome-static-generators] 
+ or 
+ [LINK:https://jamstack.org/generators/] Jamstack Generators
+ - Static Site Generator Indexes
+ [LINK:https://11ty.dev/] Eleventy
+ - Static Site Generator / [LINK:https://discord.gg/GBkBy9u] 
+ / [LINK:https://github.com/11ty/eleventy] 
+ [LINK:https://gohugo.io/] Hugo
+ - Static Site Generator
+ [LINK:https://webstudio.is/] Webstudio
+ - Website Builder
+ [LINK:https://vitepress.dev/] VitePress
+ - Static Site Generator
+ [LINK:https://astro.build/] Astro
+ - Static Site Generator / [LINK:https://x.com/astrodotbuild] 
+ / [LINK:https://discord.com/invite/grF4GTXXYm] 
+ / [LINK:https://github.com/withastro/astro] 
+ [LINK:https://docusaurus.io/] Docusaurus
+ - Static Markdown Website Generators / [LINK:https://github.com/facebook/docusaurus] 
+ [LINK:https://carrd.com/] Carrd
+ - Simple Website Builder
+ [LINK:https://retype.com/] Retype
+ - Static Markdown Website Generator / [LINK:https://github.com/retypeapp/retype] 
+ [LINK:https://www.getzola.org/] Zola
+ - Static Markdown Website Generator
+ [LINK:https://getpublii.com/] Publii
+ - Static Markdown Website Generator / No Coding
+ [LINK:https://jekyllrb.com/] Jekyll
+ - Static Markdown Website Generator
+ [LINK:https://docsify.js.org/] docsify
+ - Static Markdown Website Generator
+ [LINK:https://www.gitbook.com/] GitBook
+ - Static Site Generator
+ [LINK:https://getpelican.com/] Pelican
+ - Static Site Generator
+ [LINK:https://tilda.cc/] tilda
+ - Website Builder
+ [LINK:https://cargo.site/] cargo
+ - Website Builder
+ [LINK:https://www.framer.com/] Framer
+ - Website Builder
+ [LINK:https://temper.one/] Temper
+ - Website Builder
+ [LINK:https://www.silex.me/] Silex
+ - Website Builder
+ [LINK:https://mmm.page/] mmm
+ - Website Builder
+ [LINK:https://straw.page/] Straw.Page
+ - Website Builder
+ [LINK:https://feather.wiki/] Feather Wiki
+ - Extensible Website Generator
+ [LINK:https://soupault.net/] SouPalt
+ - Static Website Generator with HTML Element Tree
+ [LINK:https://www.vvveb.com/] Vvveb
+, [LINK:https://onuniverse.com/] Universe
+, [LINK:https://sites.google.com/] Google Sites
+ or [LINK:https://www.odoo.com/app/website] Odoo
+ - Drag & Drop Website Builders
+ [LINK:https://devdojo.com/tails] Tails
+ - Tailwind CSS Website Builder
+ [LINK:https://anvil.works/] Anvil
+ or [LINK:https://lowdefy.com/] Lowdefy
+ - Web App Creators
+Color Schemes [LINK:#color-schemes] ​
+️ 
+ [LINK:/image-tools/#palette-generators] Color Palette Generators
+️ 
+ [LINK:/image-tools/#color-pickers] Color Pickers
+ [LINK:https://www.colorhexa.com/] ColorHexa
+ - Color Hex Encyclopedia
+ [LINK:https://realtimecolors.com/] Realtime Colors
+ - Preview Color Palettes
+ [LINK:https://colorandcontrast.com/] Color & Contrast
+ - Color / Contrast Guide
+ [LINK:https://www.colorsandfonts.com/] Colors & Fonts
+ - Quickly Copy Colors
+ [LINK:https://www.khroma.co/] Khroma
+ or [LINK:https://paletton.com/] Paletton
+ - Color Scheme Designers
+ [LINK:https://www.bairesdev.com/tools/color-palette-app/editor/] Palettte
+ - Color Palette Editor
+ [LINK:https://ozdemir.dev/color-converter/] Color Converter
+ - Color Code Format Converter
+ [LINK:https://palettegenerator.com/] PaletteGenerator
+ - Color Palette Extractor
+ [LINK:https://colorable.jxnblk.com/] Colorable
+ / [LINK:https://github.com/jxnblk/colorable] 
+, [LINK:https://color.review/] color.review
+, [LINK:https://toolness.github.io/accessible-color-matrix/] accessible-color-matrix
+ or [LINK:https://abc.useallfive.com/] Accessible Brand Colors
+ - Accessible Color Palette Builders
+ [LINK:https://colororacle.org/] Color Oracle
+, [LINK:https://www.whocanuse.com/] WhoCanUse
+ or [LINK:https://www.toptal.com/designers/colorfilter] Toptal
+ - Color Blindness Simulator / Tests
+ [LINK:https://github.com/arnelenero/simpler-color] Simpler Color
+ - Create Web Color System
+ [LINK:https://www.colorzilla.com/] ColorZilla
+ - Color Picker, Gradient Generator & more
+ [LINK:https://maketintsandshades.com/] MakeTintAndShade
+ - Tint and Shade Generator
+ [LINK:https://alphredo.app/] Alphredo
+ - Create Translucent Colors
+ [LINK:https://webaim.org/resources/contrastchecker/] Contrast Checker
+ or [LINK:https://colourcontrast.cc/] Colour Contrast
+ - Background / Text Contrast Checkers
+Frontend / UI Tools [LINK:#frontend-ui-tools] ​
+ [LINK:https://github.com/alexpate/awesome-design-systems] Awesome Design Systems
+ - UI Design Systems / Libraries
+ [LINK:https://awesome-web-animation.netlify.app/] Awesome Web Animation
+ - Web Animation Resources
+️ 
+ [LINK:/storage/#design-resources] Design Resources
+, 
+ [LINK:/image-tools/#design-resources-ideas] Image Design
+ or [LINK:https://opensourcedesign.net/] Open Source Design
+ [LINK:https://www.checklist.design/] Design Checklist
+, [LINK:https://github.com/thedaviddias/Front-End-Performance-Checklist] Performance Checklist
+ or [LINK:https://frontendchecklist.io/] Front-End Checklist
+ - Frontend Development Checklist
+ [LINK:https://themewagon.com/theme-price/free/] ThemeWagon
+ - Free HTML Templates
+ [LINK:https://www.awwwards.com/websites] awwwards
+, 
+ [LINK:https://html5boilerplate.com/] Boilerplate
+ or [LINK:https://html5up.net/] html5up
+ - Custom HTML Templates
+ [LINK:https://www.uidesigndaily.com/] UI Design Daily
+ or [LINK:https://uiverse.io/] UIVerse
+ - Free UI Design Resources
+ [LINK:https://collectui.com/] CollectUI
+, [LINK:https://www.hoverstat.es/] Hoverstat
+, [LINK:https://httpster.net/] httpster
+, [LINK:https://recent.design/] Recent
+, [LINK:https://websitevice.com/] Websitevice
+, [LINK:https://dribbble.com/] Dribbble
+, [LINK:https://goodux.appcues.com/] ReallyGoodUX
+ or [LINK:https://pageflows.com/] Pageflows
+ - UI / Site Design Inspiration
+ [LINK:https://www.templatemo.com/] Templatemo
+ - Free CSS Templates
+ [LINK:https://repth.neocities.org/theme] Repth Themes
+ - Y2K Anime Themes
+⁠Human Interface Guidelines: [LINK:https://learn.microsoft.com/en-us/windows/apps/design/] Windows
+ / [LINK:https://developer.gnome.org/hig/] Gnome
+ / [LINK:https://develop.kde.org/hig/] KDE
+ / [LINK:https://developer.apple.com/design/human-interface-guidelines] Apple
+ - Interface Guidelines
+ [LINK:https://storybook.js.org/] Storybook
+ or [LINK:https://mockend.com/] Mockend
+ - UI Development Tools
+ [LINK:https://open-ui.org/] Open UI
+ - Open Standard UI
+ [LINK:https://same.new/] Same.new
+ - Copy Sites User-Interface Code
+ [LINK:https://codemyui.com/] CodeMyUI
+ or [LINK:https://fomantic-ui.com/] Fomantic-UI
+ - User Interface Code Snippets
+ [LINK:https://icon-shelf.github.io/] Icon Shelf
+ - Icon Manager
+ [LINK:https://formito.com/tools/favicon] Favicon Maker
+ or [LINK:https://www.favicon-generator.org/] Favicon Generator
+ - Create Favicons
+ [LINK:https://icon.horse/] Icon Horse
+ or [LINK:https://upset.dev/favicone] Favicone
+ - Download a Site's Favicon / 
+ [LINK:https://meta-mapper.com/] Meta-Mapper
+ - Website Metadata Thumbnails
+ [LINK:https://scrollbar.app/] Scrollbar.app
+ - Design Custom Scrollbars
+ [LINK:https://emanote.srid.ca/] Emanote
+ - Create Sites from Plain-Text Notes / [LINK:https://github.com/srid/emanote] 
+ [LINK:https://bloouikit.com/] Bloo
+ - Prototype / Test Websites Idea
+ [LINK:https://www.webdesignmuseum.org/] WebDesignMuseum
+ - Website Designs Over Time
+ [LINK:https://psdrepo.com/] PsdRepo
+ - Templates, Mockups, Logos, Videos
+ [LINK:https://daftpage.com/] Daft Page
+ - Landing Page Creator
+ [LINK:https://saaspages.xyz/] SaaS Pages
+, [LINK:https://saaslandingpage.com/] SaaS Landing Page
+ or [LINK:https://www.lapa.ninja/] lapa
+ - Landing Page Templates / Ideas
+ [LINK:https://zeplin.io/] Zeplin
+ - Design Templates / Editor
+ [LINK:https://vite.dev/] vite
+ or [LINK:https://layoutit.com/] layoutit
+ - Frontend Development Tools
+ [LINK:https://www.dembrandt.com/] Dembrandt
+ - Extract / Derive Site Design / [LINK:https://github.com/dembrandt/dembrandt] 
+ [LINK:https://component.gallery/] the component gallery
+ - Design Components Gallery
+ [LINK:https://www.uibeats.com/] UI Beats
+ or [LINK:https://magicui.design/] MagicUI
+ - UI Components
+ [LINK:https://github.com/Shopify/hydrogen] Hydrogen
+ - Online Store Templates
+ [LINK:https://www.cssbed.com/] CSS Bed
+ - Classless CSS Templates / [LINK:https://github.com/ubershmekel/cssbed] 
+ [LINK:https://www.beercss.com/] Beer CSS
+ - Lightweight CSS Framework / [LINK:https://github.com/beercss/beercss] 
+ [LINK:https://dummyimage.com/] dummyimage
+ or [LINK:https://picsum.photos/] PicSum
+ - Site Placeholder Images
+ [LINK:https://www.visiwig.com/] Visiwig
+ - Copy / Paste Site Graphics
+ [LINK:https://github.com/tooll3/t3] T3
+, [LINK:https://creator.lottiefiles.com/] ⁠Lottie Creator
+ or [LINK:https://jeremyckahn.github.io/mantra/] Mantra
+ - Create Motion Graphics
+ [LINK:https://app.naker.io/back/] NakerApp
+ - Interactive Background Maker
+ [LINK:https://http.cat/] HTTP Cats
+ - Put Cat Pictures in Your Status Codes
+WordPress Tools [LINK:#wordpress-tools] ​
+ [LINK:https://weadown.com/] Weadown
+ or [LINK:https://ddlcode.com/] DDLCode
+ - Premium Themes / Plugins
+ [LINK:https://gpldl.com/] GPLDL
+ - Premium Themes / Plugins / 25 Monthly / Requires Sign-Up
+ [LINK:https://babia.to/] Babiato
+ - Themes / Plugins Forum / Requires Sign-Up
+ [LINK:https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh] Visual CSS Editor
+ - WordPress Site Designer
+ [LINK:https://localwp.com/releases/] LocalWP
+ - WordPress Site Deployment Tools
+ [LINK:https://faustjs.org] faustjs
+ - WordPress Framework
+ [LINK:https://upstatement.com/timber/] Timber
+ - WordPress Theme Creator / [LINK:https://github.com/timber/timber] 
+ [LINK:https://www.kokoanalytics.com/] KokoAnalytics
+ - WordPress Analytics
+Regex Tools [LINK:#regex-tools] ​
+TIP
+You can use [LINK:/ai/#online-chatbots] AI chatbots
+ to create regex patterns more easily.
+ [LINK:https://regex-vis.com/] Regex Vis
+ - Regex Visualizer
+ [LINK:https://regex101.com/] regex101
+ or [LINK:https://regexr.com/] RegExr
+ - Regex Editors
+ [LINK:https://regexlearn.com/] RegexLearn
+, [LINK:https://regexone.com/] RegexOne
+, [LINK:https://refrf.dev/] refrf.dev
+ or [LINK:https://github.com/ziishaned/learn-regex] learn-regex
+ - Regex Learning / Practice Resources
+ [LINK:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet] Regex Syntax Cheatsheet
+ - Regex Cheatsheet (JS Flavor)
+ [LINK:https://ihateregex.io/] iHateRegex
+ - Premade Regex Patterns List
+ [LINK:https://globster.xyz/] Globster
+ - Test Glob Patterns
+Benchmarks / Accessibility [LINK:#benchmarks-accessibility] ​
+ [LINK:https://github.com/brunopulis/awesome-a11y] Awesome Accessibility
+ - Accessibility Tools Index
+ [LINK:https://lightest.app/] LightTest
+, [LINK:https://yellowlab.tools/] Yellow Lab Tools
+, [LINK:https://pagespeed.web.dev/] PageSpeed
+, [LINK:https://geofetcher.appsinprogress.com/] Geofetcher
+ or [LINK:https://gtmetrix.com/] GTmetrix
+ - Test Webpage Speed
+ [LINK:https://geekflare.com/tools/] Geekflare Tools
+ or [LINK:https://frontenddogma.com/tools/check/] Frontend Dogma
+ - Site Benchmarking Tools
+ [LINK:https://www.testmuai.com/] LambdaTest
+ - Cross Browser Testing Cloud
+ [LINK:https://pa11y.org/] Pa11y
+, [LINK:https://a11ysupport.io/] ⁠Accessibility Support
+, [LINK:https://wave.webaim.org/] Wave
+, [LINK:https://www.ssa.gov/accessibility/andi/help/install.html] Andi
+ or [LINK:https://a11ygator.chialab.io/] A11ygator
+ - Accessibility Evaluation Tools
+ [LINK:https://accessibilityinsights.io/] Accessibility Insights
+ - Fix Accessibility Issues
+ [LINK:https://www.accessibility-developer-guide.com/] ⁠ADG
+ / [LINK:https://github.com/Access4all/adg] 
+, [LINK:https://webaim.org/] ⁠WebAIM
+, [LINK:https://moritzglantz.de/accessibility-cheatsheet/] Accessibility Cheatsheet
+ or [LINK:https://www.a11yproject.com/checklist] A11Project
+ - Site Accessibility Guidelines / Learning
+ [LINK:https://vitals-leaderboard.pazguille.me/] Web Vitals Leaderboard
+, [LINK:https://codspeed.io/] CodSpeed
+ or [LINK:https://lighthouse-metrics.com/] Lighthouse Metrics
+ - Website Performance Tests
+ [LINK:https://prometheus.io/] Prometheus
+ - Site Metrics / [LINK:https://thanos.io/] Setup
+ [LINK:https://www.websitecarbon.com/] Carbon Calculator
+ - Estimate a Site's Carbon Footprint
+ [LINK:https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp] UX Check
+ - Site Heuristic Evaluation
+ [LINK:https://rankchart.org/] Rankchart
+ - Optimization Reports
+ [LINK:https://testmail.app/] Testmail
+ - Site Signup Test
+ [LINK:https://responsiveviewer.org/] Responsive Viewer
+ - Test Site on Multiple Screen Types / [LINK:https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb] Chrome
+ [LINK:https://responsively.app/] Responsively
+ or [LINK:https://fireship.dev/amiresponsive] Am I Responsive
+ - Website Responsiveness Tests
+ [LINK:https://github.com/GoogleChrome/lighthouse] LightHouse
+ - Web App Performance Test
+SVG Tools [LINK:#svg-tools] ​
+️ 
+ [LINK:/storage/#svg-icons] SVG / Vector Icons
+️ 
+ [LINK:/image-tools/#painting-drawing] Vector Editors
+ [LINK:https://editor.method.ac/] Method
+, [LINK:https://svg.wtf/] SVG.wtf
+, [LINK:./⁠https://studio.lucide.dev/] Lucide Studio
+, [LINK:https://drawsvg.org/drawsvg.html] DrawSVG
+, [LINK:https://boxy-svg.com/] Boxy SVG
+, [LINK:https://mossaik.app/] Mossaik
+ or [LINK:https://www.svgviewer.dev/] SVG Viewer
+ - SVG Editors / Viewers
+ [LINK:https://fffuel.co/] fffuel
+ - SVG Generators
+ [LINK:https://3dsvg.design/] ⁠3DSVG
+ - 3D SVG Editor
+ [LINK:https://svgfilters.com/] SVGFilters
+ - SVG Filter Builder
+ [LINK:https://svgartista.net/] SVGArtista
+ or [LINK:https://svgstudio.org/] ⁠SVG Studio
+ - SVG Animation Tools
+ [LINK:https://www.morphicons.com/] ⁠morphicons
+ - SVG Icon Morphing Tool / [LINK:https://github.com/guillermolg00/morphicons] 
+ [LINK:https://framesvg.romelium.cc/] FrameSVG
+ - GIF to Animated SVG / [LINK:https://github.com/Romelium/FrameSVG] 
+ [LINK:https://github.com/svg/svgo] SVGO
+ or [LINK:https://svgcrop.com/] SVGCrop
+ - SVG Optimization / [LINK:https://jakearchibald.github.io/svgomg/] GUI
+ [LINK:https://svg-tutorial.com/] SVG Tutorial
+ - Learn How to Code SVG Images
+ [LINK:https://svgx.app/] SVGX
+ - SVG Assets Manager
+ [LINK:https://vector.express/] Vector Express
+ - Vector Converters
+ [LINK:https://svgco.de/] svgco
+ or [LINK:https://svgfast.com/] ⁠SVGFast
+ - Image to SVG Converters
+ [LINK:https://zack-gphom.itch.io/glorp-pixel-to-svg] ⁠GLORP
+ - Convert Pixel Art to Optimized SVGs / 
+ / [LINK:https://github.com/ZackGphom/GLORP/] 
+ [LINK:https://bookofshapes.com/] ⁠Book Of Shapes
+ - Customizable SVG Shape & Patterns
+ [LINK:https://pattern.monster/] Pattern Monster
+ - SVG Pattern Generator
+ [LINK:https://lokesh-coder.github.io/blobs.app/] Blobs
+ - SVG Shape Generator
+ [LINK:https://maxbittker.github.io/broider/] Broider
+ - Create Border Designs
+ [LINK:https://www.shapedivider.app/] ShapeDivider
+ - Make SVG Shape Divider
+ [LINK:https://svg-path-visualizer.netlify.app/] SVG Path
+ - SVG Path Visualizer
+ [LINK:https://yqnn.github.io/svg-path-editor/] svg-path-editor
+ - SVG Path Editor
+ [LINK:https://svgwave.in/] SVGWave
+ / [LINK:https://github.com/anup-a/svgwave] 
+ - SVG Wave Generator
+ [LINK:https://www.autotracer.org/] AutoTracer
+, [LINK:https://vectorize-image.app/] ⁠Vectorize Image
+ or [LINK:https://www.visioncortex.org/vtracer/] ⁠vtracer
+ / [LINK:https://github.com/visioncortex/vtracer] 
+ - Image Vectorizers / Autotracers
+Hosting Tools 
+ [LINK:#hosting-tools] ​
+️ 
+ [LINK:/storage/#dynamic-dns-services-subdomains] Dynamic DNS Services / Subdomains
+️ 
+ [LINK:/storage/#self-hosted-wiki-alts] Self-Hosted Wiki Alts
+ [LINK:https://freehosts.eu/] FreeHosts
+ or 
+ [LINK:https://nuhmanpk.github.io/Awesome-Web-Hosting/] Awesome-Web-Hosting
+ / [LINK:https://github.com/nuhmanpk/Awesome-Web-Hosting] 
+ - Free Hosting Provider Indexes
+ [LINK:https://github.com/irazasyed/awesome-cloudflare] Awesome Cloudflare
+ - Cloudflare Resource Index
+ [LINK:https://vpsfilter.com/] VPS Comparison Chart
+, [LINK:https://vps.rentals/] VPS Rentals
+, [LINK:https://www.servers.fyi/] ⁠servers.fyi
+, [LINK:https://vpspricetracker.com/] ⁠VPS Price Tracker
+ or [LINK:https://bitcoin-vps.com/] Bitcoin VPS
+ - VPS Comparisons
+ [LINK:https://tldes.com/] TLDES
+, [LINK:https://tld-list.com/] TLD-List
+ / 
+ or [LINK:https://www.siteprice.org/] SitePrice
+ - Domain Price Comparisons
+ [LINK:https://search.censys.io/] censys
+, [LINK:https://webdna.xtra.wtf/] WebDNA
+, [LINK:https://lookup.icann.org/] ⁠ICANN Lookup
+, [LINK:https://github.com/pirxthepilot/wtfis] wtfis
+, [LINK:https://whois.b1s4.xyz/] whois_
+ / [LINK:https://github.com/b1s4/whois] 
+, [LINK:https://client.rdap.org/] RDAP
+, [LINK:https://digger.tools/] digger.tools
+, [LINK:https://accentusoft.com/] LinkScope
+ or [LINK:https://dnslytics.com/] DNSlytics
+ - Domain Info Tools
+ [LINK:https://check-host.net/] Check-Host
+ or [LINK:https://betterstack.com/uptime] Uptime
+ - Web-Based Uptime Monitors
+ [LINK:https://rentry.co/FMHYB64#backend-guide] Secure Backend Guide
+ - Secure Backend Guide
+ [LINK:https://www.oracle.com/cloud/free/] Oracle Cloud
+ - Free VPS / Requires Real Information / [LINK:https://guides.viren070.me/selfhosting/oracle] Guide (Important)
+ [LINK:https://instantdomainsearch.com/] InstantDomain
+, [LINK:https://domaintyper.com/] DomainTyper
+, [LINK:https://micro.domains/] ⁠Micro Domains
+, [LINK:https://iwantmyname.com/] IWantMyName
+, [LINK:https://www.whois.com/] Whois
+, [LINK:https://domainr.com] Domainr
+ or [LINK:https://atlaq.com] Atlaq
+ - Domains
+ [LINK:https://pyfunceble.github.io/#/] Pyfunceble
+ - Domain Availability App / [LINK:https://github.com/funilrys/PyFunceble] 
+ [LINK:https://www.dnforum.com/] DNForum
+ - Domain Name Forum
+ [LINK:https://dnstwist.it/] DNSTwist
+ / [LINK:https://github.com/elceef/dnstwist] 
+, [LINK:https://haveibeensquatted.com] HaveIBeenSquatted
+ or [LINK:https://www.dnstwister.com/] DNSTwister
+ - Typosquatting Checkers
+ [LINK:https://whoisrequest.com/] WhoisRequest
+ or [LINK:https://whois.domaintools.com/] Whois Lookup
+ - Whois Search
+ [LINK:https://ooni.org/] OONI
+ - Check Site Location Availability
+ [LINK:https://www.serverhunter.com/] Server Hunter
+ or [LINK:https://www.serversearcher.com/] ServerSearcher
+ - Search / Compare Servers
+ [LINK:https://getdeploying.com/] GetDeploying
+ - Compare Cloud Providers
+ [LINK:https://srvrlss.io/] srvrlss
+ - Search / Compare Serverless Platforms
+ [LINK:https://instances.vantage.sh/] ⁠Instances (Vantage)
+ - Compare AWS, Azure, and GCP Instances / [LINK:https://github.com/vantage-sh/ec2instances.info] 
+ [LINK:https://www.val.town/] ⁠Val Town
+ - Serverless Scripting and Sharing
+ [LINK:https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs] GoodBadISPs
+ - Best ISPs for Tor Hosting
+ [LINK:https://sandstorm.org/] Sandstorm
+ / [LINK:https://github.com/sandstorm-io/sandstorm] 
+, [LINK:https://cosmos-cloud.io/] Cosmos
+ / [LINK:https://github.com/azukaar/cosmos-server] 
+ or [LINK:https://www.cloudron.io/] Cloudron
+ - Web App Hosts
+ [LINK:https://overscript.net/] overscript
+ - Imageboard Hosting / [LINK:https://github.com/tanami/overscript] 
+ [LINK:https://www.proboards.com/] ProBoards
+ - Forum & Imageboard Hosting
+ [LINK:https://www.mybb.com/] MyBB
+ / [LINK:https://github.com/mybb] 
+, [LINK:https://freeflarum.com/] FreeFlarum
+ or [LINK:https://www.phpbb.com/] phpBB
+ / [LINK:https://github.com/phpbb] 
+ - Forum Hosting
+ [LINK:https://www.humhub.com] HumHub
+ / [LINK:https://github.com/humhub] 
+, [LINK:https://hubzilla.org/page/info/home] Hubzilla
+ / [LINK:https://framagit.org/hubzilla/core] 
+ or [LINK:https://scuttlebutt.nz/] scuttlebutt
+ - Self-Hosted Social Network
+ [LINK:https://github.com/HDInnovations/UNIT3D] UNIT3D
+ - Private Tracker Hosting
+ [LINK:https://openpanel.com/] OpenPanel
+ / [LINK:https://github.com/stefanpejcic/openpanel] 
+ or [LINK:https://moonlightpanel.xyz/] Moonlight
+ / [LINK:https://github.com/Moonlight-Panel/Moonlight] 
+ - Web Hosting Panels
+ [LINK:https://www.site24x7.com/tools.html] 24x7
+ - Various Hosting Tools
+ [LINK:https://uptime.kuma.pet/] Uptime Kuma
+ / [LINK:https://github.com/louislam/uptime-kuma] 
+, [LINK:https://checkmate.so/] Checkmate
+ / [LINK:https://github.com/bluewave-labs/Checkmate] 
+, [LINK:https://gatus.io/] ⁠Gatus
+ / [LINK:https://github.com/TwiN/gatus] 
+ or [LINK:https://uptimerobot.com/] UptimeRobot
+ - Uptime Monitors
+ [LINK:https://kener.ing/] Kener
+ / [LINK:https://github.com/rajnandan1/kener] 
+ or [LINK:https://cstate.uncascade.com/] cState
+ / [LINK:https://github.com/cstate/cstate] 
+ - Self-Hosted Status Pages
+ [LINK:https://redirect.name/] redirect.name
+ - URL Forwarding / [LINK:https://github.com/frolic/redirect.name] 
+ [LINK:https://www.iana.org/] iana
+, [LINK:https://www.arin.net/] arin
+, [LINK:https://www.lacnic.net/] lacnic
+, [LINK:https://www.afrinic.net/] afrinic
+ or [LINK:https://www.apnic.net/] apnic
+ - Internet Registry Sites
+ [LINK:https://github.com/nsonaniya2010/SubDomainizer] SubDomainizer
+, [LINK:https://search.google.com/search-console/] Google Console
+, [LINK:https://www.merklemap.com/] MerkleMap
+ or [LINK:https://subdomainfinder.c99.nl/] SD Finder
+ - Find Hidden Subdomains
+ [LINK:https://intercode.info/webtools/atsameip/] AtSameIP
+ - Find Websites on the Same IP
+ [LINK:https://checkforcloudflare.selesti.com/] Check for Cloudflare
+ - Check Sites for Cloudflare
+ [LINK:https://radar.cloudflare.com/] Cloudflare Radar
+ - Cloudflare Insights
+ [LINK:https://github.com/K0p1-Git/cloudflare-ddns-updater/] CloudFlare DDNS Updater
+ - Cloudflare Dynamic DNS Auto-Update Script
+ [LINK:https://lewdev.github.io/apps/meta-tag-gen/] Meta Tag Gen
+ / [LINK:https://github.com/lewdev/meta-tag-gen] 
+, [LINK:https://www.opengraph.xyz/] OpenGraph
+ or [LINK:https://metatags.io/] MetaTags
+ - Meta Tag Generators
+Dynamic Page Hosting [LINK:#dynamic-page-hosting] ​
+TIP
+The tags for this section are as follows: Storage Limit / Monthly Bandwidth Limit.
+ [LINK:https://www.cloudflare.com/products/workers/] Cloudflare Workers
+ - Unlimited Bandwidth (20MB Each) / 3MB Max Script Size / 100K Requests Daily
+ [LINK:https://vercel.com/] vercel
+ - 1GB Storage / 100GB Bandwidth
+ [LINK:https://www.alwaysdata.com/en/] alwaysdata.com
+ - 1GB Storage / Unlimited Bandwidth / Unlimited DB / 256MB RAM
+ [LINK:https://coolify.io/] ⁠Coolify
+ - Self-Hosting Platform / [LINK:https://github.com/coollabsio/coolify] 
+ [LINK:https://www.awardspace.com/] AwardSpace.com
+ - 1GB Storage / 5GB Bandwidth / 1 DB / 5K Monthly Visits
+ [LINK:https://www.freehostia.com/] Freehostia.com
+ - 250MB Storage / 6GB Bandwidth / 1 DB
+ [LINK:https://www.freehostingeu.com/] FreeHostingEU.com
+ - 200MB Storage / 4GB Bandwidth / 1 DB
+ [LINK:https://batcave.net/] Batcave.net
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://www.cgiwebhost.com/] CGIWebHost.com
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://freehostingnoads.net/] FreeHostingNoAds.net
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://www.100webspace.com/] 100WebSpace.com
+ - 100MB Storage / 3GB Bandwidth / 1 DB
+ [LINK:https://www.netlify.com/] netlify
+ - 300 Credits / [LINK:https://docs.netlify.com/manage/accounts-and-billing/billing/billing-for-credit-based-plans/how-credits-work/#credits-usage-for-metered-billing] Monthly
+ [LINK:https://www.50webs.com/] 50Webs.com
+ - 500MB Storage / 5GB Bandwidth / 0 DB
+ [LINK:https://somee.com/] Somee.com
+ - 150MB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://freewebpagehost.net/] FreeWebPageHost.Net
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://webfreehosting.net/] WebFreeHosting.net
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://www.biz.ly/] Biz.ly
+ - 50MB Storage / 1GB Bandwidth / 0 DB
+ [LINK:https://biz.ht/] biz.ht
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://www.freehostspace.com/] Freehostspace.com
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://runhosting.com/] RUNHOSTING.com
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://freesitehosting.com/] FreeSiteHosting.com
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://www.freehostpro.com/] Freehostpro.com
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://www.redwebhost.com/] Redwebhost.com
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://www.tekcities.com/] Tekcities.com
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://www.agilityhoster.com/] Agilityhoster.com
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://www.125mb.com/] 125mb.com
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://tinkerhost.net/] TinkerHost.net
+, [LINK:https://infinityfree.com/] 2
+, [LINK:https://byet.host/free-hosting] 3
+ - 5GB Storage / 100GB Bandwidth / Unlimited DB
+ [LINK:https://www.biz.nf/] biz.nf
+ - 1GB Storage / 5GB Bandwidth / 1 DB
+ [LINK:https://www.atspace.com/] ATSPACE
+ - 1GB Storage / Unlimited Bandwidth / 1 DB
+ [LINK:https://www.uhostfull.com/] UHostFull.com
+ or [LINK:https://www.uhostall.com/] UHostAll.com
+ - 5GB Storage / Unlimited Bandwidth / Unlimited DB
+ [LINK:https://leprd.space/] Leprd
+ - 1GB Storage / 10GB Bandwidth / Unlimited DB / Limited Registration
+ [LINK:https://x10hosting.com/] x10hosting
+ - 500MB Storage / Unlimited Bandwidth / 2 DB
+ [LINK:https://profreehost.com/] Profreehost
+ - 5GB Storage / Unlimited Bandwidth / Unlimited DB
+ [LINK:https://render.com/] Render
+ [LINK:https://www.pythonanywhere.com/] pythonanywhere
+ [LINK:https://www.ibm.com/cloud/free] IBM Cloud
+ [LINK:https://www.stormkit.io/] Stormkit
+Static Page Hosting [LINK:#static-page-hosting] ​
+TIP
+The tags for this section are as follows: Storage Limit / Monthly Bandwidth Limit.
+ [LINK:https://www.cloudflare.com/products/pages/] Cloudflare Pages
+ - 20K Files (25MB Each) / Unlimited / [LINK:https://discord.gg/cloudflaredev] 
+ [LINK:https://surge.sh/] surge
+ - Unlimited / Unlimited / [LINK:https://x.com/surge_sh] 
+ / [LINK:http://github.com/sintaxi/surge] 
+ [LINK:https://docs.github.com/en/pages] GitHub Pages
+ - 1GB (100MB per File) / 100GB
+ [LINK:https://srht.site/] Sourcehut Pages
+ - 1GB / Unlimited
+ [LINK:https://neocities.org/] Neocities
+ - 1GB / 200GB / No Custom Domain / [LINK:https://rentryresource.neocities.org/] Resources
+ / 
+ [LINK:https://nekoweb.org/] nekoweb
+ - 500MB, 5K Files / Unlimited / 
+ [LINK:https://web1.0hosting.net/] Web 1.0 Hosting
+ - 100MB / Unlimited
+ [LINK:https://pages.gay/] ⁠pages.gay
+ - Unspecified / Unspecified
+ [LINK:https://appwrite.io/] ⁠AppWrite
+ - 2GB Stage / 5GB / [LINK:https://discord.com/invite/appwrite] 
+ [LINK:https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/] BitBucket
+ - 1GB (Hard Limit 4GB) / Unlimited / No Custom Domain
+ [LINK:https://sevalla.com/static-site-hosting/] Sevalla
+ - 1GB / 100GB / No Custom Domain
+ [LINK:https://codeberg.page/] Codeberg Pages
+ - 750MB / Unlimited / Only Open-Source Projects / [LINK:https://codeberg.org/Codeberg-e.V./requests] Request Storage
+ [LINK:https://www.reocities.xyz/] Reocities
+ - 1GB / Unlimited / No Custom Domain
+Cybersecurity Tools 
+ [LINK:#cybersecurity-tools] ​
+ [LINK:https://github.com/ElNiak/awesome-formal-verification] ⁠Awesome Formal Verification
+ - Verification / Model Checking Techniques Index
+ [LINK:https://www.shenouda.nl/threat-intelligence-platform-comparison/] ⁠Cyber Threat Intelligence
+ - CTI Directory & Pricing Explorer
+ [LINK:https://github.com/bee-san/pyWhat] pyWhat
+, [LINK:https://ntinfo.biz/] horsicq
+ / [LINK:https://github.com/horsicq/] 
+ or [LINK:https://www.checkfiletype.com/] ⁠CheckFileType
+ - File Type Identification Tools
+ [LINK:https://docs.projectdiscovery.io/opensource/nuclei/overview] Nuclei
+ / [LINK:https://github.com/projectdiscovery/nuclei] 
+, [LINK:https://security.snyk.io/] Synk
+ or [LINK:https://nvd.nist.gov/] NVD
+ - Vulnerability Tracking / Scanning
+ [LINK:https://open-source-security-software.net/] Open Source Security Software
+ - Cybersecurity Software
+ [LINK:https://osquery.io] osquery
+ or [LINK:https://nmap.org/] Nmap
+ / [LINK:https://nmap.org/ndiff/] Results
+ - Security Monitors
+ [LINK:https://canarytokens.org/generate] Canarytokens
+ - Network Breach Check
+ [LINK:https://github.com/robertdavidgraham/masscan] masscan
+ - Port Scanner
+ [LINK:https://zeek.org/] Zeek
+, [LINK:https://www.kismetwireless.net/] Kismet
+, [LINK:https://www.ntop.org/] ntop
+ or [LINK:https://sniffnet.app/] Sniffnet
+ / [LINK:https://github.com/GyulyVGC/sniffnet] 
+ - Network Monitors
+ [LINK:https://crowdsec.net/] Crowdsec
+ - Crowd-Sourced Intrusion Detection / Prevention / [LINK:https://github.com/crowdsecurity/crowdsec] 
+ [LINK:https://bbradar.io/] BBRadar
+, [LINK:https://www.openbugbounty.org/] ⁠Open Bug Bounty
+ or [LINK:https://www.bugbountyhunting.com/] BugBountyHunting
+ - Bug Bounty Trackers
+ [LINK:https://github.com/XmirrorSecurity/OpenSCA-cli] OpenSCA-CLI
+ - Composition Analysis for Third Party Components
+ [LINK:https://unblob.org/] Unblob
+ - Extraction Suite
+ [LINK:https://securityonionsolutions.com/] Security Onion Solutions
+, [LINK:https://wazuh.com/] Wazuh
+ or [LINK:https://snyk.io/] Snyk
+ / [LINK:https://github.com/snyk/cli] 
+ - Site Security Monitor
+ [LINK:https://spur.us/] spur.us
+ - Block VPNs / Proxies
+ [LINK:https://github.com/greenbone] Greenbone
+ - Vulnerability Management
+ [LINK:https://evervault.com/] Evervault
+ - Security / Compliance Infrastructure
+ [LINK:https://developer.mozilla.org/en-US/observatory] Observatory
+ - HTTP Header Security Test
+ [LINK:https://www.uuidtools.com/] UUID Tools
+ or [LINK:https://toolkitvault.com/uuid-generator] ⁠UUID Generator
+ - UUID Generators
+ [LINK:https://favicon-hash.kmsec.uk/] favicon-hash
+ - Favicon Hash Generator
+ [LINK:https://github.com/ayoubfaouzi/al-khaser] Al-Khaser
+ - Anti-Malware Stress Test
+ [LINK:https://www.cvedetails.com/] CVE Details
+ or [LINK:https://app.opencve.io/cve/] ⁠OpenCVE
+ - CVE Details / Search
+ [LINK:https://github.com/t0thkr1s/allsafe] AllSafe
+ - Intentionally Vulnerable Android App
+Cybersecurity Indexes [LINK:#cybersecurity-indexes] ​
+ [LINK:https://github.com/fabionoth/awesome-cyber-security] Awesome Cyber Security
+ - Cybersecurity Resources
+ [LINK:https://github.com/myugan/awesome-cicd-security] Awesome CI/CD Security
+ - CI/CD Security Resources
+️ 
+ [LINK:/educational/#cybersecurity] Cybersecurity Learning
+ [LINK:https://www.shenouda.nl/threat-actor/] ⁠Threat Actor
+ or [LINK:https://exchange.xforce.ibmcloud.com/] X-Force Exchange
+ - Threat Actor Intelligence Platforms
+ [LINK:https://github.com/github/advisory-database] Advisory Database
+, [LINK:https://redteam.asia/exploit-repo/] ⁠VEXRA
+, [LINK:https://threatfox.abuse.ch/] ThreatFox
+, [LINK:https://www.exploit-db.com/] Exploit DB
+ or [LINK:https://attack.mitre.org/] Att&ck
+ - Cybersecurity Defense Databases
+ [LINK:https://bazaar.abuse.ch/] Bazaar
+, [LINK:https://malshare.com/] MalShare
+, [LINK:https://urlhaus.abuse.ch/] URLhaus
+, [LINK:https://pulsedive.com/] PulseDive
+ or [LINK:https://malpedia.caad.fkie.fraunhofer.de/] Malpedia
+ - Malware Search / Indexes
+ [LINK:https://threatmap.checkpoint.com/] ThreatMap
+, [LINK:https://radar.offseq.com/] Threat Radar
+ or [LINK:https://cybermap.kaspersky.com/] CyberMap
+ - Live Malware Distribution Maps
+ [LINK:https://inventory.raw.pm/] Rawsec's CyberSecurity Inventory
+ - Cybersecurity Resources
+ [LINK:https://www.cybersources.site/] CybersecResources
+ - Cybersecurity Resources / [LINK:https://github.com/bst04/cybersources] 
+ [LINK:https://github.com/0xor0ne/awesome-list] Awesome List
+ - Cybersecurity Resources
+ [LINK:https://github.com/stong/infosec-resources] Infosec Resources
+ or [LINK:https://github.com/pe3zx/my-infosec-awesome] My Infosec Awesome
+ - Infosec Resources
+ [LINK:https://cybersectools.com/] CyberSecTools
+ - Cybersecurity Resources
+Pen Testing [LINK:#pen-testing] ​
+ [LINK:https://github.com/enaqx/awesome-pentest] Awesome Pen Testing
+ - Penetration Testing Resources
+ [LINK:https://github.com/Hack-with-Github/Awesome-Hacking] Awesome Hacking
+ - Pentesting / Security Index
+ [LINK:https://www.metasploit.com/] Metasploit
+ / [LINK:https://www.comparitech.com/net-admin/metasploit-cheat-sheet/] Cheatsheet
+ - Pentesting Framework
+ [LINK:https://github.com/cure53/Contracts] Pentest Contracts
+ - Security Contract Templates
+ [LINK:https://noraj.github.io/OSCP-Exam-Report-Template-Markdown/] OSCP-Exam-Report-Template-Markdown
+ - Offensive Security Exam Report Markdown / [LINK:https://github.com/noraj/OSCP-Exam-Report-Template-Markdown] 
+ [LINK:https://store.nethunter.com/] Kali NetHunter
+ or [LINK:https://github.com/androguard/androguard] AndroGuard
+ - Penetration Testing / Forensics Apps
+DNS Tools [LINK:#dns-tools] ​
+️ 
+ [LINK:/storage/#free-dns-resolvers] Free DNS Resolvers
+ [LINK:https://messwithdns.net/] mess with dns
+ - Experiment with DNS / [LINK:https://github.com/jvns/mess-with-dns] 
+ [LINK:https://github.com/curl/curl/wiki/DNS-over-HTTPS] DNS over HTTPS
+ - Encrypted DNS Providers & Resources / [LINK:https://github.com/curl/curl/wiki/DNS-over-HTTPS#publicly-available-servers] Public Servers
+ / [LINK:https://github.com/paulmillr/encrypted-dns] iOS + macOS Configs
+ [LINK:https://www.dnsperf.com/dns-providers-list/] DNSPerf
+ - DNS Provider Rankings
+ [LINK:https://dnsaudit.io/tools/dns-propagation-check] DNS Propagation
+ - DNS Checker
+ [LINK:https://dns.coffee/] ⁠DNS Coffee
+ - DNS Search History Tool
+ [LINK:https://mxtoolbox.com/] MXToolBox
+ - MX Record Lookup Tool
+ [LINK:https://dnsdumpster.com/] DNSDumpster
+, [LINK:https://dnswatch.info] DNS Watch
+, [LINK:https://dnshistory.org/] DNSHistory
+ or [LINK:https://whatsmydns.net/] WhatsMyDNS
+ - DNS Lookup / Security
+ [LINK:https://web-check.xyz/] Web Check
+ / [LINK:https://github.com/Lissy93/web-check] 
+ or [LINK:https://www.nslookup.io/] NSLookup
+ - DNS Information Tools
+Web Security [LINK:#web-security] ​
+ [LINK:https://trycap.dev/] Cap
+ / [LINK:https://github.com/tiagozip/cap] 
+, [LINK:https://github.com/librecaptcha/lc-core] LibreCaptcha
+, [LINK:https://mcaptcha.org/] mCaptcha
+ / [LINK:https://github.com/mCaptcha/mCaptcha] 
+ or [LINK:https://anubis.techaro.lol/] Anubis
+ / [LINK:https://github.com/TecharoHQ/anubis] 
+ - Bot Protection / Captchas
+ [LINK:https://iocaine.madhouse-project.org/] ⁠Iocaine
+ - Anti-Web Crawler Software / [LINK:https://git.madhouse-project.org/iocaine/iocaine] 
+ [LINK:https://webauthn.guide/] WebAuthn
+ - Web Authentication API - [LINK:https://webauthn.io/] Demo
+ [LINK:https://github.com/ory/hydra] Hydra
+ - OAuth 2.0 Server / OpenID Connect Provider
+ [LINK:https://supertokens.com/] SuperTokens
+, [LINK:https://better-auth.com/] ⁠Better Auth
+ or [LINK:https://lucia-auth.com/] Lucia
+ - User Authentication
+ [LINK:https://crt.name/] ⁠crt.name
+ - Passive Subdomain Index / Search
+ [LINK:https://supabase.com/] SupaBase
+ - Database / Authentication Service
+ [LINK:https://www.gnunet.org/en/] ⁠GNUnet
+ - Decentralized P2P Framework
+ [LINK:https://www.zaproxy.org/] ZAP
+ - Web App Security Testing
+ [LINK:https://getipintel.net/] IP Intelligence
+, [LINK:https://www.abuseipdb.com/] AbuseIPDB
+ or [LINK:https://proxycheck.io/] Proxy Check
+ - Proxy / VPN / Bad IP Detection
+ [LINK:https://github.com/fail2ban/fail2ban] Fail2Ban
+ - Protect Servers from Brute Force Attacks
+ [LINK:https://tempesta-tech.com/] Tempesta FW
+ - DDoS / Web Attack Protection
+ [LINK:https://ip6.nl/] IPv6 Leak Test
+ or [LINK:https://test-ipv6.com/] Test-IPv6
+ - IPv6 Test
+ [LINK:https://www.itechguides.com/disable-ipv6-windows-10/] How To Turn off IPv6
+ - Prevent IPv6 Leaks
+Encryption / Certificates [LINK:#encryption-certificates] ​
+ [LINK:https://github.com/sobolevn/awesome-cryptography] Awesome Cryptography
+ - Cryptography Resources
+ [LINK:https://mitmproxy.org/] mitmproxy
+ - Analyze and modify HTTPS traffic / [LINK:https://github.com/alufers/mitmproxy2swagger] OpenAPI Converter
+ / [LINK:https://github.com/mitmproxy/mitmproxy] 
+ [LINK:https://httptoolkit.com/] HTTPToolkit
+ - Intercept, Debug, and Mock HTTP(S)
+ [LINK:https://configurator.tlsref.org/] TLSRef
+ - SSL Configuration Generator
+ [LINK:https://www.ssllabs.com/] SSLLabs
+ - SSL Testing
+ [LINK:https://www.varnish-software.com/community/hitch] Hitch
+ - SSL / TLS Proxy / [LINK:https://github.com/varnish/hitch] 
+ [LINK:https://letsencrypt.org/] Let's Encrypt
+ or [LINK:https://zerossl.com/] ZeroSSL
+ - Free TLS Certificates
+ [LINK:https://www.sslforfree.com/] SSL for Free
+ - Free SSL Certificates
+ [LINK:https://certalert.net/] CertAlert
+ - TLS/SSL Certificate Expiration Alerts
+ [LINK:https://github.com/acmesh-official/acme.sh] acme.sh
+ or [LINK:https://certbot.eff.org/] Certbot
+ - Automatically Configure / Renew Certificates
+ [LINK:https://github.com/FiloSottile/mkcert] mkcert
+ - Locally Trusted Development Certificates
+ [LINK:https://sslmate.com/caa/] SSLMate CAA
+ - CAA Record Helper
+ [LINK:https://jedisct1.github.io/minisign/] minisign
+ - Sign Files / Verify Digital Signatures / [LINK:https://github.com/jedisct1/minisign] 
+Reverse Engineering [LINK:#reverse-engineering] ​
+ [LINK:https://gist.github.com/0xdevalias/d8b743efb82c0e9406fc69da0d6c6581] ⁠Reverse Engineering Notes
+ or [LINK:https://mohitmishra786.github.io/reversingBits/] ReversingBits
+ / [LINK:https://github.com/mohitmishra786/reversingBits] 
+ - Reverse Engineering Resources
+ [LINK:https://github.com/user1342/Awesome-Android-Reverse-Engineering] Awesome Android Reverse Engineering
+ - Android Reverse Engineering Resources
+ [LINK:https://github.com/rshipp/awesome-malware-analysis] Awesome Malware Analysis
+ - Malware Analysis Resources
+ [LINK:/torrenting/] IDA Pro
+ (search) - Software Disassembler / Decompiler / [LINK:https://plugins.hex-rays.com/] Plugins
+ [LINK:https://github.com/NationalSecurityAgency/ghidra] GHIDRA
+ - Reverse Engineering Framework / [LINK:https://github.com/AllsafeCyberSecurity/awesome-ghidra] Plugins
+ [LINK:https://binary.ninja/free/] Binary Ninja
+ - Decompiler / Disassembler / Debugger / [LINK:https://github.com/vector35/community-plugins] Plugins
+ [LINK:https://frida.re/] Frida
+ - Dynamic Instrumentation Toolkit / [LINK:https://github.com/frida/frida] 
+ [LINK:https://x64dbg.com/] x64dbg
+ - Debugger for Reverse Engineering / [LINK:https://github.com/x64dbg/x64dbg/wiki/Plugins] Plugins
+ [LINK:https://discord.gg/reverse-engineering-391398885819547652] ⁠Reverse Engineering
+ (discord) - Reverse Engineering Community
+ [LINK:https://greasyfork.org/en/scripts/537775] ⁠LemmeDebug
+ - Disable Anti-Devtools for Reverse Engineering / Debugging
+ [LINK:https://www.radare.org/n/] Radare
+ - Free Reversing Toolkit / [LINK:https://discord.gg/YBey7CR9jf] 
+ / [LINK:https://github.com/radareorg/radare2] 
+ [LINK:https://rizin.re/] Rizin
+ or [LINK:https://cutter.re/] Cutter
+ - Reverse Engineering Framework
+ [LINK:https://github.com/mandiant/flare-vm] Flare VM
+ - Reverse Engineering Environment Setup Script
+ [LINK:https://remnux.org/] REMnux
+ - Reverse Engineering / Malware Analysis
+ [LINK:https://github.com/dnSpyEx/dnSpy] dnSpyEx
+ - .NET Debugger and Assembly Editor
+ [LINK:https://gaultier.github.io/blog/x11_x64.html] Gaultier Blog
+ - Learn x86-64 Assembly
+ [LINK:https://ropemporium.com/] ROP Emporium
+ - Learn Return-Oriented Programming
+ [LINK:https://qwertycube.com/apk-editor-studio/] APK Editor Studio
+ / [LINK:https://github.com/kefir500/apk-editor-studio] 
+ or [LINK:https://apktool.org/] APKTool
+ / [LINK:https://github.com/iBotPeaches/Apktool] 
+ - APK Reverse Engineering
+ [LINK:https://mas.owasp.org/] MSTG
+ or [LINK:https://github.com/prateek147/DVIA-v2] DVIA-v2
+ - App Security Testing / Reverse Engineering
+ [LINK:https://github.com/LaurieWired/Malimite] Malimite
+ - iOS / macOS Decompiler
+ [LINK:https://challenges.re/] challenges.re
+ - Reverse Engineer Code
+ [LINK:https://github.com/fmhy/edit/edit/main/docs/developer-tools.md] 
+ 📝 Edit this page
+Pager
+ [LINK:/video-tools] 
+Previous page
+ Video Tools
+ [LINK:https://rentry.org/NSFW-Checkpoint] 
+Next page
+ NSFW
+ [LINK:/feedback] Made with ❤
+ (rev: [LINK:https://github.com/fmhy/edit/commit/5aa440b9aa0686518ae42039e3a1befe00e35998] 5aa440b9
+)
+© 2026, [LINK:https://i.ibb.co/VJQmQ9t/image.png] Estd 2018.
+ This site does not host any files.
